@@ -1,4 +1,5 @@
 "use client";
+import { isReduced } from "@/lib/motion";
 import { useEffect, useState } from "react";
 import { motion, useMotionValue, useSpring } from "framer-motion";
 
@@ -12,7 +13,7 @@ export default function Cursor() {
   const ry = useSpring(y, { stiffness: 220, damping: 22, mass: 0.4 });
 
   useEffect(() => {
-    const fine = window.matchMedia("(pointer: fine)").matches && !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const fine = window.matchMedia("(pointer: fine)").matches && !isReduced();
     if (!fine) return;
     document.documentElement.classList.add("has-cursor");
     const move = (e: MouseEvent) => {

@@ -1,4 +1,5 @@
 "use client";
+import { isReduced } from "@/lib/motion";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { animate, motion, useInView, useMotionValue, useSpring, useTransform, type HTMLMotionProps } from "framer-motion";
@@ -99,7 +100,7 @@ export function Counter({ to, suffix = "", className = "", plain = false }: { to
   const [v, setV] = useState(0);
   useEffect(() => {
     if (!inView) return;
-    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const reduce = isReduced();
     const c = reduce ? undefined : animate(0, to, { duration: 2.2, ease: "easeOut", onUpdate: (n) => setV(Math.round(n)) });
     // always land on the true number (also covers reduced motion and paused animation frames)
     const done = setTimeout(() => setV(to), reduce ? 0 : 2800);

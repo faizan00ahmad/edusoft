@@ -1,4 +1,5 @@
 "use client";
+import { isReduced } from "@/lib/motion";
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Logo from "./Logo";
@@ -14,7 +15,7 @@ export default function Preloader() {
   useEffect(() => {
     let seen = false;
     try { seen = sessionStorage.getItem("edusoft-intro") === "1"; } catch {}
-    if (seen || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    if (seen || isReduced()) {
       const t = setTimeout(() => setShow(false), 0);
       return () => clearTimeout(t);
     }
@@ -58,6 +59,7 @@ export default function Preloader() {
       {show && (
         <motion.div
           key="pre"
+          data-preloader
           className="fixed inset-0 z-[300] flex cursor-pointer flex-col items-center justify-center bg-bg"
           onClick={() => { skip.current = true; }}
           role="presentation"

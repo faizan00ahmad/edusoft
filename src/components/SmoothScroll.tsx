@@ -1,4 +1,5 @@
 "use client";
+import { isReduced } from "@/lib/motion";
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 import Lenis from "lenis";
@@ -16,7 +17,7 @@ export default function SmoothScroll({ children }: { children: React.ReactNode }
 
   useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
-    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const reduce = isReduced();
     if (reduce) return;
     const lenis = new Lenis({ duration: 1.15, easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), smoothWheel: true, anchors: true });
     window.__lenis = lenis;

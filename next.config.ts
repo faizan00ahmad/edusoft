@@ -16,11 +16,6 @@ const group = (dir: string, cat: string, hub: string, map: Record<string, string
 const nextConfig: NextConfig = {
   images: { qualities: [75, 95] },
   env: { NEXT_PUBLIC_YEAR: String(new Date().getFullYear()) },
-  turbopack: {
-    rules: {
-      "*.css": { loaders: ["@tailwindcss/turbopack"], as: "*.css" },
-    },
-  },
   async redirects() {
     return [
       old("/Home", "/"),
