@@ -4,7 +4,6 @@ import { Facebook, Instagram, LinkedIn, Mail, Phone, Pin, WhatsApp } from "./Ico
 import { Button } from "./ui";
 import FooterWordmark from "./FooterWordmark";
 import Logo from "./Logo";
-import { MotionToggle } from "./MotionControls";
 
 export default function Footer() {
   const socials = [
@@ -62,12 +61,11 @@ export default function Footer() {
         <div className="border-t border-ink/10">
           <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-6 py-6 text-xs text-ink/60 md:flex-row">
             <p>Copyright © {process.env.NEXT_PUBLIC_YEAR} Edusoft System Solutions</p>
-            <div className="flex flex-wrap items-center gap-4"><MotionToggle />
             <ul className="flex gap-6">
               {FOOTER_LINKS.map((l) => (
                 <li key={l.href}><Link href={l.href} className="hover:text-ink">{l.label}</Link></li>
               ))}
-            </ul></div>
+            </ul>
           </div>
         </div>
       </div>

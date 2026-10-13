@@ -11,7 +11,6 @@ import Footer from "@/components/Footer";
 import ScrollProgress from "@/components/ScrollProgress";
 import Providers from "@/components/Providers";
 import FloatingActions from "@/components/FloatingActions";
-import { MotionHint } from "@/components/MotionControls";
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
 const space = Space_Grotesk({ variable: "--font-space", subsets: ["latin"], weight: ["300", "400", "500", "600", "700"] });
@@ -26,7 +25,7 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { themeColor: "#05070d" };
 
 // runs before first paint: saved choice, else the OS preference
-const THEME_SCRIPT = `try{var d=document.documentElement,t=localStorage.getItem("edusoft-theme");if(!t)t=matchMedia("(prefers-color-scheme: light)").matches?"light":"dark";d.dataset.theme=t;var m=localStorage.getItem("edusoft-motion");if(!m)m=matchMedia("(prefers-reduced-motion: reduce)").matches?"reduced":"full";d.dataset.motion=m}catch(e){}`;
+const THEME_SCRIPT = `try{var t=localStorage.getItem("edusoft-theme");if(!t)t=matchMedia("(prefers-color-scheme: light)").matches?"light":"dark";document.documentElement.dataset.theme=t}catch(e){}`;
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   const org = {
@@ -42,9 +41,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     sameAs: [SITE.social.facebook, SITE.social.instagram, SITE.social.linkedin],
   };
   return (
-    <html lang="en" className={`${inter.variable} ${space.variable}`} data-theme="dark" data-motion="full" suppressHydrationWarning>
+    <html lang="en" className={`${inter.variable} ${space.variable}`} data-theme="dark" suppressHydrationWarning>
       <body className="grain min-h-screen">
-        <noscript><style>{`[style*="opacity: 0"],[style*="opacity:0"]{opacity:1!important;transform:none!important;clip-path:none!important}.skip-link{display:none}`}</style></noscript>
         <Script id="theme-init" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(org) }} />
         <a href="#main" className="skip-link">Skip to content</a>
@@ -57,7 +55,6 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <main id="main">{children}</main>
           <Footer />
           <FloatingActions />
-          <MotionHint />
         </SmoothScroll>
         </Providers>
       </body>

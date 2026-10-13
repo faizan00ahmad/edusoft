@@ -1,5 +1,4 @@
 "use client";
-import { isReduced } from "@/lib/motion";
 import Image from "next/image";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { SpotCard } from "./ui";
@@ -35,7 +34,7 @@ export default function TeamCarousel({ team, interval = 3200 }: { team: Member[]
   }, [go, idx, n]);
 
   useEffect(() => {
-    if (paused || isReduced()) return;
+    if (paused || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const t = setInterval(() => go(idx + 1), interval);
     return () => clearInterval(t);
   }, [paused, idx, interval, go]);

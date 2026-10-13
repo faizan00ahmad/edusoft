@@ -1,5 +1,4 @@
 "use client";
-import { isReduced } from "@/lib/motion";
 import { useId, useSyncExternalStore } from "react";
 import { motion } from "framer-motion";
 
@@ -26,7 +25,7 @@ export default function ThemeToggle({ className = "" }: { className?: string }) 
       document.documentElement.dataset.theme = next;
       try { localStorage.setItem(KEY, next); } catch {}
     };
-    const reduce = isReduced();
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     const root = document.documentElement;
     const r = e.currentTarget.getBoundingClientRect();
     const x = r.left + r.width / 2;

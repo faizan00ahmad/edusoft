@@ -252,11 +252,13 @@ body {
   }
 }
 
-:root[data-motion="reduced"] .grain::after,
-:root[data-motion="reduced"] .aurora i,
-:root[data-motion="reduced"] .marquee,
-:root[data-motion="reduced"] .text-grad {
-  animation: none !important;
+@media (prefers-reduced-motion: reduce) {
+  .grain::after,
+  .aurora i,
+  .marquee,
+  .text-grad {
+    animation: none !important;
+  }
 }
 
 /* ── theme switch: circular reveal via View Transitions ── */
@@ -292,11 +294,13 @@ html.theme-fade, html.theme-fade * {
 .skip-link:focus { top: 1rem; }
 [id] { scroll-margin-top: 110px; }
 
-:root[data-motion="reduced"] *,
-:root[data-motion="reduced"] *::before,
-:root[data-motion="reduced"] *::after {
-  animation-iteration-count: 1 !important;
-  scroll-behavior: auto !important;
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 /* ── animated logo (no box) ── */
@@ -334,8 +338,6 @@ a:hover > .logo-glow, .logo-glow:hover { transform: scale(1.06) rotate(-1.5deg);
   0%, 100% { filter: drop-shadow(0 0 0 rgba(18, 184, 98, 0)); }
   50% { filter: drop-shadow(0 0 9px rgba(18, 184, 98, 0.55)); }
 }
-:root[data-motion="reduced"] .logo-glow,
-:root[data-motion="reduced"] .logo-shine { animation: none; }
-
-/* reduced motion: no intro overlay, not even for a frame */
-:root[data-motion="reduced"] [data-preloader] { display: none !important; }
+@media (prefers-reduced-motion: reduce) {
+  .logo-glow, .logo-shine { animation: none; }
+}

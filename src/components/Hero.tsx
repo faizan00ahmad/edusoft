@@ -1,5 +1,4 @@
 "use client";
-import { isReduced } from "@/lib/motion";
 import Link from "next/link";
 import Image from "next/image";
 import dynamic from "next/dynamic";
@@ -29,7 +28,7 @@ export default function Hero() {
 
   useEffect(() => {
     const t = setTimeout(() => {
-      const reduce = isReduced();
+      const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
       setWide(window.innerWidth >= 1024);
       setCanvas(!reduce && window.innerWidth >= 768);
     }, 1600);

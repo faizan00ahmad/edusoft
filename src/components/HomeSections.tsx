@@ -1,5 +1,4 @@
 "use client";
-import { isReduced } from "@/lib/motion";
 import Link from "next/link";
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
@@ -94,8 +93,7 @@ export function SolutionsScroller({ byCategory }: { byCategory: Record<CategoryK
   useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
     const mm = gsap.matchMedia();
-    mm.add("(min-width: 1024px)", () => {
-      if (isReduced()) return;
+    mm.add("(min-width: 1024px) and (prefers-reduced-motion: no-preference)", () => {
       const t = track.current!;
       const dist = () => t.scrollWidth - window.innerWidth;
       const tween = gsap.to(t, { x: () => -dist(), ease: "none", scrollTrigger: { trigger: root.current, pin: true, scrub: 0.6, start: "top top", end: () => `+=${dist()}`, invalidateOnRefresh: true } });
