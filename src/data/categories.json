@@ -1,0 +1,125 @@
+{
+  "retail": {
+    "slug": "retail",
+    "title": "Retail Solutions",
+    "intro": [
+      "We have been partners with EduSoft System Solutions for many years and because of their satisfactory work we haven't even thought about any other software. Good thing is that it is not the same as it was in the start, as our business grew, the features in the software also grow which makes the work much easier for us.",
+      "If I were to describe the importance of EduSoft, I would say that it has a humongous effect on Ahsan Medicine Co. is today. All the satisfied clients who visit and re visit us due to our fast service, the software from EduSoft Solutions plays a big role behind that. Well Done!",
+      "A very fine software. All our records are now organized and the fast billing has ease the over crowded burden on us. We are very happy with the software and its services."
+    ],
+    "cards": [
+      {
+        "title": "Retail SOLUTIONS",
+        "href": "",
+        "blurb": ""
+      },
+      {
+        "title": "EduSoft System Solutions a name of trusted Business Consultancy and Automation firm in Pakistan, serving various Business Industries since year 2000.",
+        "href": "",
+        "blurb": "We proudly maintain pool of hundreds of clients from different industries and segments providing a wide variety of not only desktop but web based tailored ERP solutions developing efficiency, productivity and strong internal controls."
+      },
+      {
+        "title": "We would love to Get in Touch. Contact Us",
+        "href": "",
+        "blurb": ""
+      }
+    ],
+    "items": [
+      "restaurant-manager",
+      "store-manager",
+      "business-solution-retail",
+      "fuel-station-manager",
+      "book-shop-manager"
+    ]
+  },
+  "healthcare": {
+    "slug": "healthcare",
+    "title": "Healthcare Solutions",
+    "intro": [
+      "We have been partners with EduSoft System Solutions for many years and because of their satisfactory work we haven't even thought about any other software. Good thing is that it is not the same as it was in the start, as our business grew, the features in the software also grow which makes the work much easier for us.",
+      "If I were to describe the importance of EduSoft, I would say that it has a humongous effect on Ahsan Medicine Co. is today. All the satisfied clients who visit and re visit us due to our fast service, the software from EduSoft Solutions plays a big role behind that. Well Done!",
+      "A very fine software. All our records are now organized and the fast billing has ease the over crowded burden on us. We are very happy with the software and its services."
+    ],
+    "cards": [
+      {
+        "title": "Healthcare SOLUTIONS",
+        "href": "",
+        "blurb": ""
+      },
+      {
+        "title": "We would love to Get in Touch. Contact Us",
+        "href": "",
+        "blurb": ""
+      }
+    ],
+    "items": [
+      "pharma-manager",
+      "labiz",
+      "hmis"
+    ]
+  },
+  "enterprise": {
+    "slug": "enterprise",
+    "title": "Enterprise Solutions",
+    "intro": [
+      "We have been partners with EduSoft System Solutions for many years and because of their satisfactory work we haven't even thought about any other software. Good thing is that it is not the same as it was in the start, as our business grew, the features in the software also grow which makes the work much easier for us.",
+      "If I were to describe the importance of EduSoft, I would say that it has a humongous effect on Ahsan Medicine Co. is today. All the satisfied clients who visit and re visit us due to our fast service, the software from EduSoft Solutions plays a big role behind that. Well Done!",
+      "A very fine software. All our records are now organized and the fast billing has ease the over crowded burden on us. We are very happy with the software and its services."
+    ],
+    "cards": [
+      {
+        "title": "Enterprise SOLUTIONS",
+        "href": "",
+        "blurb": ""
+      },
+      {
+        "title": "We would love to Get in Touch. Contact Us",
+        "href": "",
+        "blurb": ""
+      }
+    ],
+    "items": [
+      "business-solution-enterprise",
+      "business-solution-standard",
+      "auto-dealer",
+      "property-manager",
+      "ginning-manager",
+      "agri-manager",
+      "studio-manager",
+      "business-solutions-accounts-inventory"
+    ]
+  },
+  "more": {
+    "slug": "more",
+    "title": "More Solutions",
+    "intro": [
+      "We proudly maintain pool of hundreds of clients from different industries and segments providing a wide variety of not only desktop but web based tailored ERP solutions developing efficiency, productivity and strong internal controls.",
+      "Cash,Bank,General Vouchers, Cash Books, Transaction Books, Ledgers and Other Accounting Reports...",
+      "Room Reservation, Banquet Hall Mgmt, Check In System,Housekeeping Services,Advance Bookings ,Companies Contracts....."
+    ],
+    "cards": [
+      {
+        "title": "More SOLUTIONS",
+        "href": "",
+        "blurb": ""
+      },
+      {
+        "title": "We would love to Get in Touch. Contact Us",
+        "href": "",
+        "blurb": ""
+      }
+    ],
+    "items": [
+      "accountant-gold",
+      "hotel-manager",
+      "transport-manager",
+      "ticketing-manager",
+      "smsmanager",
+      "tailor-manager",
+      "carriage-manager",
+      "edu-quill",
+      "scale-operator",
+      "finance-manager"
+    ]
+  }
+}

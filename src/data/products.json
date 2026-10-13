@@ -1,0 +1,4263 @@
+[
+  {
+    "slug": "restaurant-manager",
+    "key": "RestaurantManager",
+    "category": "retail",
+    "title": "Restaurant",
+    "accent": "Manager",
+    "modulesHeading": "Restaurant Manager Operational Modules:",
+    "description": [
+      "All in One Productfor Restaurant Management, a very comprehensively developed solution for an easy, quick and smart management of Restaurant Business Ventures catering all complex business needs. Keep an eye on your operations, Costs, Manage Inventory, with a real time updates on your screens just a click away."
+    ],
+    "modules": [
+      {
+        "label": "Product Recipes",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-1.jpg"
+      },
+      {
+        "label": "KOT & Billing",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-2.jpg"
+      },
+      {
+        "label": "Functions Bookings",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-9.jpg"
+      },
+      {
+        "label": "Home Delivery",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-4.jpg"
+      },
+      {
+        "label": "Touch Screen",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-5.jpg"
+      },
+      {
+        "label": "Membership",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-6.jpg"
+      },
+      {
+        "label": "Kitchen Issuance",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-7.jpg"
+      },
+      {
+        "label": "RIMS (Govt. Tax)",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-8.jpg"
+      },
+      {
+        "label": "SMS",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-3.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-11.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-14.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-12.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-10.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/restaurant/restaurant-ico-13.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Hassle Free Operation Management",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Easy to Operate Screens by Higher/Lower Management",
+              "Multiple Restaurant Management from single server machine",
+              "Floor and Table Management System",
+              "Table Wise Order Booking",
+              "Advance Order Management",
+              "Shift Management and Administration",
+              "Serving Area Wise Duty Chart",
+              "KOT Printing to relevant Kitchens (Cooking Unit Wise)",
+              "Product Wise Recipe Management",
+              "Group and Sub Groups of Raw Materials/Non Food Items Inventory"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Quickest Fast Food Club Management",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Touch Screen for quick order processing",
+              "Make a Deal Setup",
+              "Hold Bill Facility"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Change Quantity any time (-, +)",
+              "Cash Discount in % & Fixed Amount",
+              "Sale Return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Operational Reports",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Order Book Information (Table Wise)",
+              "Restaurant Sale Sheet (Date, Shift, Product, Serving Area wise)",
+              "Billing Information",
+              "Sales Analysis Reports"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Profit per Day",
+              "Product Sale Details",
+              "Opening and Closing Inventory"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Financial Features",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "POS for Billing with Multiple Cash Counters",
+              "Customizable and Flexible Charts of Account",
+              "Auto Carry Forward of Account Balances on Year Closing",
+              "Daily Account Closing"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Inventory Procurement Module",
+              "Order Wise Inventory Issuance (Bills of Material)",
+              "Auto Backup of Database",
+              "Employee Payroll"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Financial Reports",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Income Statements",
+              "Balance Sheets",
+              "Party Ledgers"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Payroll Reports",
+              "Cash counter wise Cash Report (Date, Employee Login wise)",
+              "Bill no. wise summarized report"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Back Session Editing",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "You will now have the option to maintain your financial records for number of years and if you feel that you have made some kind of mistake in the past, you will have the option of Back Session Editing which would make sure that you have accurate results for every year."
+          },
+          {
+            "type": "h",
+            "text": "Bank & Accounts Flow:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Bank Opening Account",
+              "Cheque Book Issuance",
+              "Cheque Cancellation",
+              "Multi Cheque receipts",
+              "Multi Cheque Deposit to Bank",
+              "Payment through Bank",
+              "Bank to Bank Transfer"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Bank to Bank posting",
+              "Daily Bank Posting",
+              "Bank Reconciliation",
+              "Receipt voucher with particular account",
+              "Payment voucher with particular account",
+              "Cash transfer voucher to other business units"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Bank & Accounts Reports:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Daily Cash Book",
+              "Cash Flow Statement",
+              "Transaction Book",
+              "Parties Ledger",
+              "Subsidiary Sheet",
+              "Daily Voucher Report"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Trial Balance",
+              "Income Statement Business Unit wise",
+              "Income Reconciliation",
+              "Balance Sheet Business Unit wise",
+              "Bank Receipt and Payment Report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Payroll Features:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Group wise Employee Division",
+              "Employee Record Management",
+              "Biometrics Attendance",
+              "Availability of Staff Members"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Advances & Loan to Staff",
+              "Over/Short Time Management",
+              "Staff Loan Rescheduling",
+              "Payroll Sheet"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Payroll Reports:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Employees Report",
+              "Group wise Salaries",
+              "Employee Timing"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Employees advances/Loan Status Report",
+              "Payroll Reconciliation"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Payroll Reports:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Employees Report",
+              "Group wise Salaries",
+              "Employee Timing"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Employees advances/Loan Status Report",
+              "Payroll Reconciliation"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Advance Features:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Management Console for Higher Management",
+              "Security Management",
+              "i) Multi User Accounts",
+              "ii) User Login Security",
+              "iii) User Rights Management (forms access rights, Reports, View,Edit, Delete, Print etc.)"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Data Backup Utility",
+              "Search & Help on all forms using short keys",
+              "i) Multi Way Search Options",
+              "Display Screen for Clients"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Al-Maida Restaurant",
+      "Amir Rajput Caterers",
+      "Anmole Restaurant",
+      "Aroma Restaurant",
+      "Cafe 11",
+      "Cafe Eclair",
+      "Chaman Dry Fruit & Italian Food",
+      "Chicken Cottage",
+      "Chickey Cottage",
+      "City Food Center",
+      "Dera Inn",
+      "Eat & More Restaurant & Marriage Hall",
+      "Fani'z",
+      "Gloria Jeans",
+      "Grill up",
+      "Indus River Restaurant",
+      "Jinnah B.B.Q",
+      "Kashif Fried Chicken with Pizza & Cafeteria",
+      "Labaik Foods",
+      "Lahori Sughat Restaurant",
+      "Lake View Restaurant",
+      "Lasani Chargha House",
+      "Mianwali Restaurant and Marriage Hall",
+      "Multan Garrison Mess",
+      "Nefis Grill",
+      "Nefis Pizzeria",
+      "Ni Hao (He got software from someplace else)",
+      "Nishter Student Point",
+      "My Buns",
+      "Pakeeza Gardens",
+      "Punjab Palace Hotel and Restaurant",
+      "Qureshi Tikka Shop and Family Restaurant",
+      "Rajasthan Marriage Hall",
+      "Real Taste",
+      "River Inn",
+      "River View Restaurant",
+      "Royal Continental Restaurant",
+      "Salt n Pepper FSD",
+      "Shinwari Restaurant",
+      "Siddiqui Food",
+      "Spicy Bites",
+      "Spicy Bites 2",
+      "Sultania Fast Food and Family Restaurant",
+      "Tasty Bamboo BBQ and Banquet Hall",
+      "Tasty Food Mart",
+      "Tasty Garden Rstaurant",
+      "Tasty Main (Tikka Shop)",
+      "Tasty Student Zaiqa",
+      "The Village Restaurant",
+      "The Yumz",
+      "Tornado Potato",
+      "United Cuisine",
+      "Youth Cafe",
+      "Zaitoon Restaurant (DGK)"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/RetailSolutions/RestaurantManager"
+  },
+  {
+    "slug": "store-manager",
+    "key": "StoreManager",
+    "category": "retail",
+    "title": "Store",
+    "accent": "Manager",
+    "modulesHeading": "Store Manager Operational Modules:",
+    "description": [
+      "Perfect software to manage inventory and keep track of commodity present in your departmental store.",
+      "It enables Hassel Free management of in store activities, improved merchandise management, beneficial in reduction of labor cost, support remote store process and many more. Perform your operations in quickest possible manner, when it comes to serve multiple customers at single time. Enjoy various analytical reports and give your business a boom!"
+    ],
+    "modules": [
+      {
+        "label": "Porducts Hierarchy",
+        "icon": "/img/inner-banners/store/store-ico-8.jpg"
+      },
+      {
+        "label": "godown Mgmt",
+        "icon": "/img/inner-banners/store/store-ico-1.jpg"
+      },
+      {
+        "label": "Shelf Mgmt",
+        "icon": "/img/inner-banners/store/store-ico-2.jpg"
+      },
+      {
+        "label": "POS",
+        "icon": "/img/inner-banners/store/store-ico-4.jpg"
+      },
+      {
+        "label": "Discounts",
+        "icon": "/img/inner-banners/store/store-ico-5.jpg"
+      },
+      {
+        "label": "Membership Card",
+        "icon": "/img/inner-banners/store/store-ico-6.jpg"
+      },
+      {
+        "label": "Cash Reports",
+        "icon": "/img/inner-banners/store/store-ico-7.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/store/store-ico-10.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/store/store-ico-13.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/store/store-ico-11.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/store/store-ico-9.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/store/store-ico-12.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Seamless Store Operations Management",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Easily to Operate System Screens by Cashier, Store Manager, Owners",
+              "Multiple Store Management from Single Server Machine (Head office or Main Branch or Main Warehouse, etc.)",
+              "Shift Management and Administration",
+              "Maintain No of People &their gender visitedto your store and their reporting"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Point of SaleManagement Module",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Point of sales (POS) Invoice and POS return invoice",
+              "General sales tax working on Sales",
+              "Cashier wise counter sales and discount report",
+              "Salesman wise Commission system and its reporting",
+              "Daily sales and Account closing system",
+              "Maximum Discount on single products and also restricts salesman to enter discount"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Procurement Management System",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Manage Purchase invoice party wise and maintain its payment schedule date",
+              "Maintain multiple payment of purchase to parties on single form",
+              "Purchase voucher reference wise payment to parties",
+              "Order Placement on single click of stock",
+              "Restricts sales man to change the retail price on Sale invoice",
+              "Change the color of entry in purchase which is easily to find max & min G.P% of products",
+              "Place product picture which is shown on POS Invoice",
+              "Maintain multiple batch/serial of single product on purchase"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Inventory Management System",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Negative stock report and outstanding sales reports",
+              "Customizable Product Hierarchy",
+              "Maintain Godown as well as shelf inventory",
+              "Godown wise and shelf wise separate stock report",
+              "Barcode Wise Stock Maintenance and stock reports",
+              "Maintain Minimum and maximum Shelf Level of Single Products",
+              "Products Conversion from loose (Kg) to packing (No of Units)",
+              "Issuance from Godown to shelf stock",
+              "Stock return from shelf to Godown",
+              "Excess of stock entry and stock shortage entry",
+              "Maintain expiry of products and expiry products reports"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bank and Payments Management Module",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Payment & receipts scheduler",
+              "Cheque Book Management (Issuance & Cancellation)",
+              "Cash Deposit to Bank",
+              "Cash Draw from Bank",
+              "Bank Instruments (Cheque, Debit/Credit Card Demand Draft, Tele Transfer,",
+              "Travelling Cheque Pay Oder, etc) Deposit & with Drawl Management System",
+              "Bank to Bank Cash Transfer",
+              "Bank Accounts Reconciliation System"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Payroll Module ",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Payment & receipts scheduler",
+              "Department Wise Employee Division",
+              "Employees Profile",
+              "Employees Leaves & Absentees Record",
+              "Advances & Loan to Staff Management"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Staff Loan Rescheduling",
+              "Over / Short Time Management",
+              "Monthly Payroll / Salary Sheet"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Account Module",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Cash Receipt Voucher (Double Entry system)",
+              "Cash Payment Voucher (Double Entry system)",
+              "Bank Receipt and Payment voucher"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Journal Voucher Transaction",
+              "Manage Future Transaction"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analytical Reports providing a highly controlled system. ",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Account Module Reports:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Chart of Accounts",
+              "Cash Book",
+              "Ledger",
+              "Transactions Book",
+              "Cash Flow Statement",
+              "Subsidiary Sheet",
+              "Trial Balance"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Income Statement (Consolidate)",
+              "Income statement (Business Unit Wise)",
+              "Balance Sheet (Consolidate & Business Unit Wise)",
+              "Daily Voucher Report Employee wise report",
+              "Employee wise daily report",
+              "Employee wise transaction report",
+              "Employee Activity report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Sales Reports :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Party wise products sales reports",
+              "Invoice wise party sales detail report",
+              "Group & Category wise sales reports"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Products wise sales & sales returns",
+              "Member wise sale & sales detail ledger",
+              "Member wise receivable amount report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Stock report :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Single stock and dual stock report",
+              "Group & category wise Godown stock & shelf combine stock report",
+              "Product code wise and product wise",
+              "stock report",
+              "Evaluative stock Reports",
+              "Quantity wise Godown& shelf stock report"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Product wise Evaluative and quantity stock report",
+              "Negative stock report",
+              "Party wise product stock report",
+              "Batch / serial wise stock report",
+              "Group & Category wise Stock in\\out reports",
+              "Stock inflow and outflow source report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Purchase Reports :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Group & category wise purchase report",
+              "Date wise products & all products purchase report",
+              "Party wise last purchase detail report",
+              "Party wise purchase return",
+              "Trade offer reports",
+              "Group wise G.P of products report"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Category & subcategory wise G.P reports",
+              "General make Reports",
+              "General Purchase & purchase return report",
+              "General Sale & Sales Return Reports",
+              "Stock inflow & outflow reports",
+              "General Godown issuance & return report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Miscellaneous Reports :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Products conversion report",
+              "Products expiry & expiry on batch/serial report",
+              "Godown& shelf product activity",
+              "Login wise product entry"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Party payment & receipts",
+              "Stock management analysis",
+              "Party wise Sales & G.P Analysis",
+              "Bill wise gross profit analysis"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Management :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Navigation Security System",
+              "Multi User Accounts",
+              "User Login Security"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "User Rights Management (Forms access Rights, Reports, View, Edit, Delete, Print etc.)",
+              "User Accounts Association System"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Utilities: :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Back-up, Restore and data safety system",
+              "Accounts Transaction shifting",
+              "Provisional voucher",
+              "Session reclosing",
+              "Back date editing and their lock",
+              "Different print style option in voucher",
+              "Customizable Chart of Accounts (Multi Business)"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Separate cash account maintain in case of multi business unit",
+              "Inter transaction A/c from one business unit to other",
+              "Unlimited License or Period base License",
+              "Unlimited financial Sessions",
+              "Financial Session Closing on a Single Click",
+              "Parties Contacts management & address book Export to Excel, Word, PDF, Text & HTML"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "ABC Departmental Store",
+      "Al Hilal Industries",
+      "Al Khair Foods, Sweets & Bakers",
+      "Al Saud Departmental Store",
+      "Aleem Sons",
+      "Ali General Store",
+      "Al-Lateef General Store",
+      "Al-Sehraa",
+      "Ayoub Khan Super Store",
+      "Azaan Super Store",
+      "Bake and Beyond",
+      "Best Buys",
+      "BJ Shopping Mall",
+      "Cafe 11",
+      "China Plus Mart",
+      "Choice Super Market",
+      "Choice Super Market Store",
+      "City Mart",
+      "City Super Store",
+      "Classic Cake n Bake",
+      "Coins Mart",
+      "Factory Price Shop",
+      "Fiaz CNG Services",
+      "Fiaz Kriyana StoreChase Value's",
+      "Food festival Group -All Branches Multan",
+      "Food Festival-Gulshan Market",
+      "Food Mahal",
+      "Green Land Hyper Market (BWP)",
+      "Hamza Fair Price Shop",
+      "Happy Home Complex",
+      "Hyper Mart & Bakers",
+      "Ideal Mart (Buch Villas)",
+      "Indus River Restaurant",
+      "Jam Filling Station and Tuck Shop",
+      "Jampur Petroleum Services",
+      "Kashif Sweets & Bakers",
+      "Khawaja Sweets and Bakers",
+      "M/S E-Mart",
+      "Malik Shakeel Karyana Store",
+      "Metro Departmental Store",
+      "MGM Store",
+      "Mian Fazal Rehman Hospital",
+      "Mini Mart",
+      "Multan Department Store",
+      "National Milk Bar & Departmental Store",
+      "New Insaf Fabrics",
+      "One One Mini Mart",
+      "Pick and Choose Departmental Store",
+      "Prince Mart",
+      "PSO Shop Stop",
+      "Rana Babar Petroleum services and Marhaba Mart",
+      "Read and Play",
+      "Rehan Ghani Super Store, Sweets and Bakers",
+      "RJ's Departmental Store",
+      "Shaheen Bakers",
+      "Sohaib General Store",
+      "Sunrise Super Market",
+      "Tasty Bamboo Mart",
+      "Tasty Mart",
+      "Tasty Plus Bakers",
+      "The Pantry Sweets & Bakers",
+      "The Yumz Bakers",
+      "TM Bakers",
+      "Unique Family Store",
+      "Usman Departmental Store"
+    ],
+    "brochure": "/downloads/store-manager.pdf",
+    "sourceUrl": "https://edusoftsolutions.com/RetailSolutions/StoreManager"
+  },
+  {
+    "slug": "business-solution-retail",
+    "key": "BusinessSolutionRetail",
+    "category": "retail",
+    "title": "Business Solution",
+    "accent": "Retail",
+    "modulesHeading": "Business Solution Retail Operational Modules:",
+    "description": [
+      "Details coming Soon..."
+    ],
+    "modules": [
+      {
+        "label": "Porducts Hierarchy",
+        "icon": "/img/inner-banners/retail/retail-ico-0.jpg"
+      },
+      {
+        "label": "Barcode",
+        "icon": "/img/inner-banners/retail/retail-ico-3.jpg"
+      },
+      {
+        "label": "Article base Products",
+        "icon": "/img/inner-banners/retail/retail-ico-4.jpg"
+      },
+      {
+        "label": "POS",
+        "icon": "/img/inner-banners/retail/retail-ico-1.jpg"
+      },
+      {
+        "label": "Recovery & Payments",
+        "icon": "/img/inner-banners/retail/retail-ico-2.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/retail/retail-ico-6.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/retail/retail-ico-9.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/retail/retail-ico-7.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/retail/retail-ico-5.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/retail/retail-ico-8.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Fiaz CNG Services",
+      "Gultex Showroom",
+      "Khurshid Fabrics",
+      "Dar Ul Dacor",
+      "Subhan Traders",
+      "Al Falah Fabrics",
+      "Chaudhary Shopping Mall",
+      "Factory Shop 6 DGK",
+      "Pakeeza Ladies Collection",
+      "Noble Natural SARL",
+      "IP Collection",
+      "Stuff Family Store",
+      "New Insaf Fabrics",
+      "Fashion Club",
+      "The Pantry Sweets & Bakers",
+      "Top Shop Garments",
+      "Now Wow",
+      "Bubbles",
+      "Next Home",
+      "Rays Garments",
+      "The Class",
+      "Safa Kids World",
+      "Pakistan Fabrics",
+      "Al Fahad Cloth House",
+      "Panorama Hullah Student Centre",
+      "Desert Storm",
+      "Pomeez Bubleez",
+      "Insaf Fabrics",
+      "Multan Cloth Sale Depot",
+      "Factory Shop",
+      "Aspire Shoes"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/RetailSolutions/BusinessSolutionRetail"
+  },
+  {
+    "slug": "fuel-station-manager",
+    "key": "FuelStationManager",
+    "category": "retail",
+    "title": "Fuel Station",
+    "accent": "Manager",
+    "modulesHeading": "Fuel Station Operational Modules:",
+    "description": [
+      "This particular software is designed for the convenience of every fuel station available. It is not just restricted to any particular fuel station in any region but for every filling station whether it is petrol, diesel, CNG or combined of all three in any region."
+    ],
+    "modules": [
+      {
+        "label": "Product Mgmt",
+        "icon": "/img/inner-banners/fuel/fuel-ico-4.jpg"
+      },
+      {
+        "label": "Machine Mgmt",
+        "icon": "/img/inner-banners/fuel/fuel-ico-2.jpg"
+      },
+      {
+        "label": "Shift Mgmt",
+        "icon": "/img/inner-banners/fuel/fuel-ico-3.jpg"
+      },
+      {
+        "label": "Tanks Mgmt",
+        "icon": "/img/inner-banners/fuel/fuel-ico-5.jpg"
+      },
+      {
+        "label": "Tanks Dip Analysis",
+        "icon": "/img/inner-banners/fuel/fuel-ico-6.jpg"
+      },
+      {
+        "label": "Credit Sale",
+        "icon": "/img/inner-banners/fuel/fuel-ico-8.jpg"
+      },
+      {
+        "label": "Billing & Recovery",
+        "icon": "/img/inner-banners/fuel/fuel-ico-9.jpg"
+      },
+      {
+        "label": "Rate Revisions",
+        "icon": "/img/inner-banners/fuel/fuel-ico-1.jpg"
+      },
+      {
+        "label": "comprehensive Analysis",
+        "icon": "/img/inner-banners/fuel/fuel-ico-7.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/fuel/fuel-ico-11.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/fuel/fuel-ico-14.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/fuel/fuel-ico-12.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/fuel/fuel-ico-10.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/fuel/fuel-ico-13.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Introduction",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "You can maintain all the data about your stock in single software. Along with that, you will have the option of maintaining the data for all your employees because when it is a shift base working, it becomes really hard to keep a track of all the employees but with this product, you will have the option of Admin Control. This option is suitable for every shift wise working business and also the assignment of control of the software entirely depends upon owner of the business that which person should be handled how much of the authority. This software gives you the option of controlling your Multi Business Unit from single location. It doesn’t matter whether you have numerous number of fuel station because you can keep track of every filling station from a single location. With the Back Session Editing option, you can rectify any mistake which was done in the past when entering the data."
+          }
+        ]
+      },
+      {
+        "title": "Chart of Accounts",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "One of the basic tools for any accounting principle is to maintain financial records. In this software, you will have the option of maintaining your financial record for number of periods. It gives you the freedom of storing the data for several years and with that you also have the option of Back Session Editing. This would give you the option to rectify your mistake which you had ever done in the past while maintaining your accounts. Whenever you want to make a new session, it is really important to close the existing session and then start with a new one. These Charts of Accounts have the option of Addition, Deletion and update of Account for your everyday use."
+          },
+          {
+            "type": "h",
+            "text": "Company Information:"
+          },
+          {
+            "type": "p",
+            "text": "This option would help you when you will be requiring any reporting for your business."
+          },
+          {
+            "type": "h",
+            "text": "Category Information:"
+          },
+          {
+            "type": "p",
+            "text": "Your multiple products record is mainted here so that you can view the working of each category separately or all together."
+          },
+          {
+            "type": "h",
+            "text": "Products Information:"
+          },
+          {
+            "type": "p",
+            "text": "As the name implies, you can view all the details regarding all your relevant products."
+          },
+          {
+            "type": "h",
+            "text": "Work Shift Information:"
+          },
+          {
+            "type": "p",
+            "text": "This feature is somewhat very important to this particular software because with Work Shift Information, you can keep a track of sales according to shift wise and also every thing stays according to the right way."
+          }
+        ]
+      },
+      {
+        "title": "System Flow",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In this software you have the option to control your employees in a shift wise role. Fuel Station is a 24/7 business so it is quite essential to have different people for different timing. With this software, you can decide that which employee should have how much control over there and also you can decide that which machine should be used in that particular shift."
+          },
+          {
+            "type": "h",
+            "text": "Purchases Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "It has several other options as well, of which Purchase Voucher will give you all the details of your every purchase from the supplier. It doesn’t matter whether you have a single supplier or multiple suppliers, you can manage their details quite comfortably. Also with Purchase Return option, you don’t have to worry about any damaged or problem item."
+          },
+          {
+            "type": "h",
+            "text": "Sales Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "Sales Voucher will give you the option to enter the data of sales which you have made to any party or any customer. It is designed in a flexible way, which would give you the option of product name, quantity and even discount option. Sales Return Voucher is also there for any item which you get back from the customer or party for any reason."
+          },
+          {
+            "type": "h",
+            "text": "Credit Sales Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "It also happens on some occasions that you deal on credit basis, for that we have also put the option of Credit Sales Voucher so that you record could be maintained without any problem."
+          },
+          {
+            "type": "h",
+            "text": "Cash Receipt Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "Cash Receipt Voucherwill cover all your transactions which are covered in cash and whether it is for a single unit or multi unit, everything will be at your finger tips."
+          },
+          {
+            "type": "h",
+            "text": "Cash Payment Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "Cash Payment Voucher will cover all your transactions which are covered in cash and whether it is for a single unit or multi unit, everything will be at your finger tips."
+          },
+          {
+            "type": "h",
+            "text": "Journal Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "For all your general transactions, there is an option of Journal Voucher."
+          },
+          {
+            "type": "h",
+            "text": "Daily Accounts Closing:"
+          },
+          {
+            "type": "p",
+            "text": "We believe that your work is really important and it should be kept safe, so that’s why this software has Daily Account Closing option so that you can view your data at any time."
+          },
+          {
+            "type": "h",
+            "text": "Data Backup:"
+          },
+          {
+            "type": "p",
+            "text": "Also Data Backup will make sure that all your information stays safe if any disastrous condition occur."
+          }
+        ]
+      },
+      {
+        "title": "Group Management",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This is a very important feature in a shift wise business because it will give you the leverage to assign an authority to the specific person who is working on that particular time shift. There is an Administration option that would have the rights to allocate certain controls to his employees. With the option of Multiple Accounts, you don’t have to worry about how many people are working there because with every individual account, every person will only focus on what he is responsible for."
+          }
+        ]
+      },
+      {
+        "title": "Analysis and Reporting",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Financial statement can be considered as one of the most important thing for any business and keeping this thing in mind, we have designed this software in such a way which would fulfill all the reporting system for any business whether it is a nonprofit organization or any other business entity, it would provide you with complete details from General Journal to Balance Sheet with the option of controlling the multi business from there."
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "A-1 Jugnoo Petroleum",
+      "Ali Murad Carrier",
+      "Caltex City Filling Station",
+      "Crystal Filling Station",
+      "Fatima Petroleum Services",
+      "Intesar Petrolleum Service",
+      "Jam Filling Station and Tuck Shop",
+      "Jugnu Filling Station",
+      "Khawaja Petroleum and Millat Khawaja 321 Chak",
+      "Mairaj Filling Station",
+      "Mumtaz Petroleum Service",
+      "Mushtarka Punjab Jugnu Trucking Station",
+      "PSO Ltd",
+      "Rana Babar Petroleum services and Marhaba Mart"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/RetailSolutions/FuelStationManager"
+  },
+  {
+    "slug": "book-shop-manager",
+    "key": "BookShopManager",
+    "category": "retail",
+    "title": "Book Shop",
+    "accent": "Manager",
+    "modulesHeading": "Book Shop Manager Operational Modules:",
+    "description": [
+      "This software is designed in a way which would become useful for every medium to large distributor. It is made for everyone and that is the reason it is kept extremely simple and easy to use."
+    ],
+    "modules": [
+      {
+        "label": "Books/Stationery Mgmt",
+        "icon": "/img/inner-banners/book/book-ico-1.jpg"
+      },
+      {
+        "label": "Demand & Quote System",
+        "icon": "/img/inner-banners/book/book-ico-2.jpg"
+      },
+      {
+        "label": "Exhibition Mgmt",
+        "icon": "/img/inner-banners/book/book-ico-3.jpg"
+      },
+      {
+        "label": "POS",
+        "icon": "/img/inner-banners/book/book-ico-4.jpg"
+      },
+      {
+        "label": "Multi Branches Interlink",
+        "icon": "/img/inner-banners/book/book-ico-5.jpg"
+      },
+      {
+        "label": "Analysis & Reports",
+        "icon": "/img/inner-banners/book/book-ico-6.jpg"
+      },
+      {
+        "label": "Magazine Distribution Sys",
+        "icon": "/img/inner-banners/book/book-ico-7.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/book/book-ico-9.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/book/book-ico-12.jpg"
+      },
+      {
+        "label": "payroll",
+        "icon": "/img/inner-banners/book/book-ico-10.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/book/book-ico-8.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/book/book-ico-11.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Introduction",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "You will now have the easy access to your inventory and not a single thing can go out of your sight. The name EduBookShopManager also means that book shops could benefit a lot with it because it contains some features which is guaranteed to make their work easy for example Bar Code Printing, Daily Sales Closing, Daily Accounts Closing, Bulk Bar Code Printing, Daily Work Back Up and several other useful features. You can now also maintain separate data for your special customers to whom you have to offer some special packages or discount offers."
+          }
+        ]
+      },
+      {
+        "title": "Chart of Accounts",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In this software, you will have the option of maintaining your financial record for number of periods. It gives you the freedom of storing the data for several years and with that you also have the option of Back Session Editing. This would give you the option to rectify your mistake which you had ever done in the past while maintaining your accounts. These Charts of Accounts have the option of Addition, Deletion and updating of Account for your everyday use."
+          },
+          {
+            "type": "h",
+            "text": "Company Information:"
+          },
+          {
+            "type": "p",
+            "text": "There is Company Information which will be used in all your reporting systems."
+          },
+          {
+            "type": "h",
+            "text": "Author Information:"
+          },
+          {
+            "type": "p",
+            "text": "there is Author’s Information which will be used in defining different products."
+          },
+          {
+            "type": "h",
+            "text": "Publisher Information:"
+          },
+          {
+            "type": "p",
+            "text": "The reason why it becomes so useful for book shops is that they can locate their stock even from the Publisher Information because many customers require specific author or publisher book so you can search that within no time with the help of this software."
+          },
+          {
+            "type": "h",
+            "text": "Topic Information:"
+          },
+          {
+            "type": "p",
+            "text": "Also there is Topic Information in case someone doesn’t know the book name you can search that with this option."
+          },
+          {
+            "type": "h",
+            "text": "Language Information:"
+          },
+          {
+            "type": "p",
+            "text": "Also it doesn’t matter whether you are selling English, Urdu or any other language books, you can keep a track of every single item with Language Information."
+          },
+          {
+            "type": "h",
+            "text": "Currency Information:"
+          },
+          {
+            "type": "p",
+            "text": "There is even an option for different currency under Currency Information for any business who deals with that."
+          },
+          {
+            "type": "h",
+            "text": "Unit Categories:"
+          },
+          {
+            "type": "p",
+            "text": "This software also features Measuring Unit Categories which would give you the option to calculate any of your data in any unit which you feel is appropriate for your use."
+          },
+          {
+            "type": "h",
+            "text": "Stock Flow Sources:"
+          },
+          {
+            "type": "p",
+            "text": "Stock Flow Sources would become a very handy tool when your business is performing abnormally i.e. it will help you to deal with the situation when you have abnormal increase or decrease in your stock."
+          },
+          {
+            "type": "h",
+            "text": "Groups Information:"
+          },
+          {
+            "type": "p",
+            "text": "Once you have entered the data than Group Information will give you the option to categorize your products on units and nature base. It becomes really easy for you if you are dealing with multiple options."
+          },
+          {
+            "type": "h",
+            "text": "Category Information:"
+          },
+          {
+            "type": "p",
+            "text": "You can sub divide those groups into different categories under Categories Information."
+          },
+          {
+            "type": "h",
+            "text": "Products Information:"
+          },
+          {
+            "type": "p",
+            "text": "It also has the option of Product Information whichwould make sure that for what purpose you are using that particular product for. It is not restricted to only few items but as many as you want."
+          },
+          {
+            "type": "h",
+            "text": "Bulk Bar Code Printing:"
+          },
+          {
+            "type": "p",
+            "text": "One of the important features in this software is Bulk Bar Code Printing where you can generate bar code for your products and can keep a track of stock and price for every item available."
+          },
+          {
+            "type": "h",
+            "text": "Party Nature Information:"
+          },
+          {
+            "type": "p",
+            "text": "Party Nature Information will give you the option to define different parties and what type are they from."
+          },
+          {
+            "type": "h",
+            "text": "Parties Information:"
+          },
+          {
+            "type": "p",
+            "text": "There is also an option for Parties Information which would also give you the idea of your parties that how many you are dealing with and also which party falls under which category."
+          }
+        ]
+      },
+      {
+        "title": "System Flow",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Purchase Invoice:"
+          },
+          {
+            "type": "p",
+            "text": "Purchase Invoice is a pretty useful tool in this software which would give you the ability to make data of anything you purchase from a distributor. It can facilitate you with multiple distributor options and also with Purchase Return option; you don’t have to worry about if any of your stock gets back to you."
+          },
+          {
+            "type": "h",
+            "text": "Sales Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "Sales Voucher as the name suggests would keep a record of all your sales with the option of Sale Return to cover any of the return item."
+          },
+          {
+            "type": "h",
+            "text": "Stock Transfer:"
+          },
+          {
+            "type": "p",
+            "text": "Stock Transfer comes in handy when you have to transfer your stock from one warehouse to another."
+          },
+          {
+            "type": "h",
+            "text": "Stock In Out Flows:"
+          },
+          {
+            "type": "p",
+            "text": "There is also an option for abnormal inflow or outflow of stock under Stock in out Flows."
+          },
+          {
+            "type": "h",
+            "text": "Sales Recovery:"
+          },
+          {
+            "type": "p",
+            "text": "Whenever you receive the payments for any of your sold items, you can enter that entry in Sales Recovery."
+          },
+          {
+            "type": "h",
+            "text": "Cash Receipt Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "Cash Receipt Voucherwould give all the details of what you have received in cash for any of your transaction from the party."
+          },
+          {
+            "type": "h",
+            "text": "Cash Payment Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "Cash Payment Voucher would give all the details of what you have paid in cash for any of your transaction from the party."
+          },
+          {
+            "type": "h",
+            "text": "Party Recovery Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "There is also an option for Party Recovery Voucher which comes in handy when you have sold any item or some items which you have sold has been return back to you."
+          },
+          {
+            "type": "h",
+            "text": "Party Credit Supplies:"
+          },
+          {
+            "type": "p",
+            "text": "From any parties whom your payment has been pending, you can check those entries under Parties Credit Supplies."
+          },
+          {
+            "type": "h",
+            "text": "Daily Sales Report:"
+          },
+          {
+            "type": "p",
+            "text": "Also there is a very important option which is Daily Sales Report which is normally used by a salesman and you can check out the daily sales and purchases which have been made at your business."
+          },
+          {
+            "type": "h",
+            "text": "Journal Voucher:"
+          },
+          {
+            "type": "p",
+            "text": "For all your general transactions, there is an option of Journal Voucher."
+          },
+          {
+            "type": "h",
+            "text": "Daily Accounts Closing:"
+          },
+          {
+            "type": "p",
+            "text": "We believe that your work is really important and it should be kept safe, so that’s why this software has Daily Account Closing option so that you can view your data at any time."
+          },
+          {
+            "type": "h",
+            "text": "Data Backup:"
+          },
+          {
+            "type": "p",
+            "text": "Also Data Backup will make sure that all your information stays safe if any disastrous condition occur.."
+          }
+        ]
+      },
+      {
+        "title": "Group Management",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This is a very important feature in a shift wise business because it will give you the leverage to assign an authority to the specific person who is working on that particular time shift. There is an Administration option that would have the rights to allocate certain controls to his employees. With the option of Multiple Accounts, you don’t have to worry about how many people are working there because with every individual account, every person will only focus on what he is responsible for."
+          }
+        ]
+      },
+      {
+        "title": "Analysis and Reporting",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Financial statement can be considered as one of the most important thing for any business and keeping this thing in mind, we have designed this software in such a way which would fulfill all the reporting system for any business whether it is a nonprofit organization or any other business entity, it would provide you with complete details from General Journal to Balance Sheet with the option of controlling the multi business from there."
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Al Huda International Welfare Foundation",
+      "Beacon Books",
+      "Book Land",
+      "Book Point",
+      "Chapter 2 Book Shop",
+      "Idara Talefat-e-Asharfia",
+      "Idarat-Tul-Anwar-Lahore Br",
+      "Multan Kitab Ghar"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/RetailSolutions/BookShopManager"
+  },
+  {
+    "slug": "pharma-manager",
+    "key": "PharmaManager",
+    "category": "healthcare",
+    "title": "Pharmacy",
+    "accent": "Pharma Manager",
+    "modulesHeading": "Pharmacy Manager Operational Modules:",
+    "description": [
+      "A Comprehensive solution to manage Medical Laboratories/Diagnostic Centers inside hospitals or working privately or independently.Available in very attractive price according to your Lab Needs."
+    ],
+    "modules": [
+      {
+        "label": "Generic Names",
+        "icon": "/img/inner-banners/pharma/pharma-ico-1.jpg"
+      },
+      {
+        "label": "batch & Expiry Mgmt.",
+        "icon": "/img/inner-banners/pharma/pharma-ico-2.jpg"
+      },
+      {
+        "label": "Sales Base",
+        "icon": "/img/inner-banners/pharma/pharma-ico-3.jpg"
+      },
+      {
+        "label": "Local Parties Purchase",
+        "icon": "/img/inner-banners/pharma/pharma-ico-4.jpg"
+      },
+      {
+        "label": "Prescription Mgmt",
+        "icon": "/img/inner-banners/pharma/pharma-ico-5.jpg"
+      },
+      {
+        "label": "POS",
+        "icon": "/img/inner-banners/pharma/pharma-ico-6.jpg"
+      },
+      {
+        "label": "Order Mgmt System",
+        "icon": "/img/inner-banners/pharma/pharma-ico-7.jpg"
+      },
+      {
+        "label": "Multi Branches Interlink",
+        "icon": "/img/inner-banners/pharma/pharma-ico-8.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/pharma/pharma-ico-9.jpg"
+      },
+      {
+        "label": "Government Reports",
+        "icon": "/img/inner-banners/pharma/pharma-ico-10.jpg"
+      },
+      {
+        "label": "SMS",
+        "icon": "/img/inner-banners/pharma/pharma-ico-11.jpg"
+      },
+      {
+        "label": "payments & Recovery",
+        "icon": "/img/inner-banners/pharma/pharma-ico-12.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/pharma/pharma-ico-13.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/pharma/pharma-ico-14.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/pharma/pharma-ico-15.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/pharma/pharma-ico-16.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/pharma/pharma-ico-17.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Features",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Highly User Friendly Easy to Operate:"
+          },
+          {
+            "type": "p",
+            "text": "Easy to use screens enabling fast processing of Customer Orders, hence reducing timeline serving clients and increasing efficiency and proper record management."
+          },
+          {
+            "type": "h",
+            "text": "17000+ Medicines Data Basee:"
+          },
+          {
+            "type": "p",
+            "text": "System is already equipped and coded with unique data base of more than 17000 medicines, enable a hassle free implementation right after system installation. Moreover, more medicines can be added/deleted as per ease of users."
+          },
+          {
+            "type": "h",
+            "text": "Powerful Search Feature with Generic Names:"
+          },
+          {
+            "type": "p",
+            "text": "Quick search enabled on Sales Man Screen to search from pool of medicine the product demanded along with alternatives and their price ranges."
+          },
+          {
+            "type": "h",
+            "text": "Batch No and Expiry Management:"
+          },
+          {
+            "type": "p",
+            "text": "Manage Batch wise Purchase and Sale Stock near to Expiry First by systematic management."
+          },
+          {
+            "type": "h",
+            "text": "Quick Customer Order Processing:"
+          },
+          {
+            "type": "p",
+            "text": "Sales man quickly punches the Required Daily Dose and number of days, system immediately calculates quantity needed. Hence, allowing a very fast mechanism of Customer Order Processing."
+          },
+          {
+            "type": "h",
+            "text": "Multiple Order Processing in Single Time:"
+          },
+          {
+            "type": "p",
+            "text": "Multiple Users on Multiple Computers can input Multiple Customer Orders linked with Cash Counters. This will enable fast dealing of many clients in a single go."
+          },
+          {
+            "type": "h",
+            "text": "Strong, Reliable and Controlled Billing Feature:"
+          },
+          {
+            "type": "p",
+            "text": "This feature enable Pharmacists to only punch Customer Order, Cash is only collected at Cash Counters. Also Sales Return is recorded at Cash Counter adjusting Customer Bill Amount Automatically as well as recording changes in Inventory."
+          },
+          {
+            "type": "h",
+            "text": "Auto Purchase Order Based on Sales Forecast:"
+          },
+          {
+            "type": "p",
+            "text": "System will intelligently identify Sales of particular item and generate Auto Purchase Order based on minimum Shelf Quantity for that item with Auto Alerts of Minimum Level of Stock."
+          },
+          {
+            "type": "h",
+            "text": "Local Purchase Management System:"
+          },
+          {
+            "type": "p",
+            "text": "In case any particular stock ended, system quickly generates Local Purchase Receipt for quick and timely processing of customers order and also generate payable against that."
+          },
+          {
+            "type": "h",
+            "text": "Track Record of inventory in Rack and Store:"
+          },
+          {
+            "type": "p",
+            "text": "Systematic control over stock in Racks and also in Store enabling smooth pharmacy operations."
+          },
+          {
+            "type": "h",
+            "text": "Sale Base Item - Tracking and Reports:"
+          },
+          {
+            "type": "p",
+            "text": "A very unique feature with complete backend integrated working on Sale Base Items by vendors. Such items are only entered into Stock, but, a payable is auto generated as and when they are sold."
+          },
+          {
+            "type": "h",
+            "text": "Integrated Employee Payroll Module:"
+          },
+          {
+            "type": "p",
+            "text": "Payroll Module in Edu Pharma Manager Product enables to record all employee transactions such as Employee Advances, Loans, even if some medicine is taken by Employee, an auto Advance Entry is recorded against that Sale."
+          },
+          {
+            "type": "h",
+            "text": "Automatically Maintain All Ledgers:"
+          },
+          {
+            "type": "p",
+            "text": "All Pharmacy Operations having Financial Impact are auto integrated systematically to generate Vouchers and Post them as and when event happens."
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Abdullah Medical Bank",
+      "Ahmed Pharmacy",
+      "Ahsan Medicine and Vaccination House",
+      "Ahsan Medicine Company- All Branches",
+      "Al Shifa Pharmacy",
+      "ALM Pharmacy",
+      "Anees Medical Store",
+      "Arafat Medical Store",
+      "Arrahma Hospital",
+      "BHY Pharmacy",
+      "Big Muscle Nutrition",
+      "Blue Plus Medicose",
+      "CH. Taj Muhammad Foundation Hospital",
+      "Child Care Clinic",
+      "City Pharmacy",
+      "Doctor's Pharmacy",
+      "Faiz Pharmacy",
+      "Fatima Ultra Sound Center",
+      "Green Plus Pharmacy",
+      "Haji M. Memorial Hospital",
+      "Hameed Hospital",
+      "Hamza Pharmacy",
+      "Health Way Pharmacy",
+      "Jalal Medicine Company",
+      "Kamboh Enterprises",
+      "Kamil Medicine",
+      "KK Pharmacy",
+      "Kk Pharmacy Whole Sale",
+      "Liaquat Medical Store",
+      "LifeCare Pharmacy Services",
+      "Mahar Pharmacy",
+      "Maqbool Medical Store",
+      "Medicine Pharmacy Plus",
+      "Muhammad Bin Momin Pharmacy",
+      "Multan Plus - All Branches",
+      "New Maqbool Pharmacy",
+      "Nine Pharmacy",
+      "Nishtar Medical Univercity and Hospital - Multan",
+      "Peer & Sons Medical Store",
+      "Peer and Sons/TCL",
+      "Pharma Plus Jalla Arain",
+      "Rahim Vaccine",
+      "Rehman Pharmacy",
+      "Saifi Pharmacy",
+      "Salman Pharmacy",
+      "The Chemist Land",
+      "The Lifeline Pharmacy",
+      "The Shaheen Pharmacy",
+      "Women Christian Hospital"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/HealthCare/PharmaManager"
+  },
+  {
+    "slug": "labiz",
+    "key": "Labiz",
+    "category": "healthcare",
+    "title": "Lab Information Management",
+    "accent": "System.",
+    "modulesHeading": "Lab Information Management System Operational Modules:",
+    "description": [
+      "A Comprehensive solution to manage Medical Laboratories/Diagnostic Centers inside hospitals or working privately or independently.Available in very attractive price according to your Lab Needs."
+    ],
+    "modules": [
+      {
+        "label": "Departments",
+        "icon": "/img/inner-banners/lab/lab-ico-1.jpg"
+      },
+      {
+        "label": "investigation Mgmt",
+        "icon": "/img/inner-banners/lab/lab-ico-2.jpg"
+      },
+      {
+        "label": "Bookings/Results",
+        "icon": "/img/inner-banners/lab/lab-ico-3.jpg"
+      },
+      {
+        "label": "Recovery",
+        "icon": "/img/inner-banners/lab/lab-ico-4.jpg"
+      },
+      {
+        "label": "Online Reports",
+        "icon": "/img/inner-banners/lab/lab-ico-5.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/lab/lab-ico-6.jpg"
+      },
+      {
+        "label": "Patient Registration",
+        "icon": "/img/inner-banners/lab/lab-ico-7.jpg"
+      },
+      {
+        "label": "Pathologist Dashboard",
+        "icon": "/img/inner-banners/lab/lab-ico-8.jpg"
+      },
+      {
+        "label": "SMS alerts to patients",
+        "icon": "/img/inner-banners/lab/lab-ico-9.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Features",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Patient Registration:"
+          },
+          {
+            "type": "p",
+            "text": "A Comprehensive solution to manage Medical Laboratories/Diagnostic Centers inside hospitals or working privately or independently.Available in very attractive price according to your Lab Needs."
+          },
+          {
+            "type": "h",
+            "text": "Pathologist Dashboard:"
+          },
+          {
+            "type": "p",
+            "text": "This feature allows internal control for verification of Results by responsible Pathologies, and to approve test results electronically and after that allows their Printing."
+          },
+          {
+            "type": "h",
+            "text": "User Based Reports Templates:"
+          },
+          {
+            "type": "p",
+            "text": "A powerful feature which allows User of this product to make different reporting templates for different Clinical Tests and change formats as and when required. Also user can set if required to print Department Wise Report on separate pages, etc."
+          },
+          {
+            "type": "h",
+            "text": "Internal Controls :"
+          },
+          {
+            "type": "p",
+            "text": "System is equipped with strong internal controls for inventory, cash receipts and other important financial transactions hence reducing the chances of pilferage."
+          },
+          {
+            "type": "h",
+            "text": "Panel Cases Discounts and Receivable Management:"
+          },
+          {
+            "type": "p",
+            "text": "A very unique billing feature that manages Panel Case Discounts and also generate Receivable ledger reports."
+          },
+          {
+            "type": "h",
+            "text": "Machine Integration for Auto Test Performance:"
+          },
+          {
+            "type": "p",
+            "text": "System generates Bar Codes to be placed on Tubes while booking test. Such Bar codes are auto read while performing tests and results are auto posted against those booking, this feature reduces the time and also increases Lab Performance."
+          },
+          {
+            "type": "h",
+            "text": "SMS alerts to patients:"
+          },
+          {
+            "type": "p",
+            "text": "Patients can Receive SMS Alerts for collecting or online viewing results of their reports right after Results are posted against their Booking."
+          },
+          {
+            "type": "h",
+            "text": "Online Reporting (web based):"
+          },
+          {
+            "type": "p",
+            "text": "The increasing trend of Online Presence of Business is essence these days, with this feature, Labs allow their Patients to check their report results Online with Web Portal Integrations."
+          },
+          {
+            "type": "h",
+            "text": "Android App for Patients :"
+          },
+          {
+            "type": "p",
+            "text": "Time to Go More Digital. This feature is for those who want to provide maximum ease to their customers, App can be developed so Patients can view whenever they require to see their reports on their Android Phones."
+          },
+          {
+            "type": "h",
+            "text": "Inventory/Consumption Costing Module :"
+          },
+          {
+            "type": "p",
+            "text": "This feature allows to create BOMs and then provide estimated cost price on Tests being conducted."
+          },
+          {
+            "type": "h",
+            "text": "Finance Module :"
+          },
+          {
+            "type": "p",
+            "text": "Record all important Transactions other than Integrated from Customers Billing and get real time updated Trial Balance and Balance Sheets."
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Ahsan Medicine Company - Multan",
+      "Allied Clinical Lab",
+      "Al Saeed Clinical Lab",
+      "CPE Institute of Cardiology - Multan",
+      "Hameed Hospital",
+      "Nishtar Medical Univercity and Hospital - Multan"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/HealthCare/Labiz"
+  },
+  {
+    "slug": "hmis",
+    "key": "HMIS",
+    "category": "healthcare",
+    "title": "Hospital Information Management",
+    "accent": "System",
+    "modulesHeading": "HIMS Operational Modules:",
+    "description": [
+      "Fully Automated and Paperless Hospital Management, Available in Web Based and Desktop Based System"
+    ],
+    "modules": [
+      {
+        "label": "In Patient",
+        "icon": "/img/inner-banners/hims/hims-ico-2.jpg"
+      },
+      {
+        "label": "Out Patient",
+        "icon": "/img/inner-banners/hims/hims-ico-1.jpg"
+      },
+      {
+        "label": "Laboratory",
+        "icon": "/img/inner-banners/hims/hims-ico-3.jpg"
+      },
+      {
+        "label": "Pharmacy",
+        "icon": "/img/inner-banners/hims/hims-ico-4.jpg"
+      },
+      {
+        "label": "Blood Bank",
+        "icon": "/img/inner-banners/hims/hims-ico-5.jpg"
+      },
+      {
+        "label": "Doctor/Pre-Examiner’s",
+        "icon": "/img/inner-banners/hims/hims-ico-6.jpg"
+      },
+      {
+        "label": "Medical History",
+        "icon": "/img/inner-banners/hims/hims-ico-7.jpg"
+      },
+      {
+        "label": "Patients Feedback",
+        "icon": "/img/inner-banners/hims/hims-ico-8.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "HMIS Financial and Other Modules ",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Accounts Payable and Receivable Management",
+              "Financial Accounts Management",
+              "Hospital Procurement Management",
+              "Hospital Inventory Management",
+              "HR Recruitment Management",
+              "HR Training and Development",
+              "Payroll Management"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Strong Features of HIMS",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Punjab Healthcare Commission Guidelines Based on guidelines mentioned in Minimum Service Delivery Standards for Primary and Secondary Health Care in Punjab (MSDS) – Punjab Healthcare Commission.",
+              "Complete Paperless Working Environment",
+              "Improved and Quick Patient Treatments",
+              "Uniform, Accurate, Timely, Adequate and Relevant Information Processing",
+              "Quick Decision Making Reports for Top management",
+              "Strong Internal Controls for Management",
+              "Fast, Secure and Reliable information flow",
+              "Monitors current patient’s Disease Trends",
+              "Dashboard System for Quick Data Entry",
+              "Dashboard Reporting System for Quick Analysis",
+              "Long term Record Management System",
+              "Artificial Intelligence",
+              "Extensive Internal Controls"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Features of Core Operational Modules – Enabling complete end-to-end paperless environment.",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "OPD Management System:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Patient Registration with unique MR# (Medical Record Number)",
+              "Patient Billing and Panel Case Receivable Management System",
+              "Department and Doctor Roaster wise Patient Que Management System",
+              "Pre-Examiner Dashboard to record Presenting Complaints, History of Previous Treatments, History of previous hospitalization, Family History etc.",
+              "Vital Signs Recording",
+              "Doctor Dashboard for quick recording of Systemic Examination and further Referring digitally for Diagnosis, Radiology, etc.",
+              "Recording Medication and Submitting digitally to Pharmacy"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "IPD Management System:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Patient Admission Profile Management",
+              "Patient Billing and Panel Case Receivable Management System",
+              "Wards, Room – Categories wise Management",
+              "Doctor Dashboard for In-patients",
+              "OT Management Dashboards",
+              "Nursing Workbench Roaster Management",
+              "Nursing Notes Recording on each patient visit",
+              "Patient Transfer/Discharge Management"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Al Rehman Surgical Hospital",
+      "CPE Institute of Cardiology - Multan",
+      "Nishtar Medical Univercity and Hospital - Multan",
+      "Umar Memorial Welfare Trust and Laboratory"
+    ],
+    "brochure": "/downloads/hims.pdf",
+    "sourceUrl": "https://edusoftsolutions.com/HealthCare/HMIS"
+  },
+  {
+    "slug": "business-solution-enterprise",
+    "key": "BusinessSolutionEnterprise",
+    "category": "enterprise",
+    "title": "Business Solution",
+    "accent": "Enterprise",
+    "modulesHeading": "Business Solution Enterprise Operational Modules:",
+    "description": [
+      "This software is for large scale corporate business organizations having very huge business setup. It is loaded with several features which guaranteed a smooth operations along with saving precious time.",
+      "One of its unique features is to enable setup for various business operating unitsunder one organization. It is loaded with number of default reports which provide run time reports to management.",
+      "Body Text Coming soon..."
+    ],
+    "modules": [
+      {
+        "label": "Multi Business Units",
+        "icon": "/img/inner-banners/business-solution/bse-ico-12.jpg"
+      },
+      {
+        "label": "Trade Offers / Schemes",
+        "icon": "/img/inner-banners/business-solution/bse-ico-1.jpg"
+      },
+      {
+        "label": "Purchase Module",
+        "icon": "/img/inner-banners/business-solution/bse-ico-3.jpg"
+      },
+      {
+        "label": "Import Module",
+        "icon": "/img/inner-banners/business-solution/bse-ico-6.jpg"
+      },
+      {
+        "label": "Manufacturing Module",
+        "icon": "/img/inner-banners/business-solution/bse-ico-5.jpg"
+      },
+      {
+        "label": "Sales Targets",
+        "icon": "/img/inner-banners/business-solution/bse-ico-11.jpg"
+      },
+      {
+        "label": "Sale / Orders Module",
+        "icon": "/img/inner-banners/business-solution/bse-ico-4.jpg"
+      },
+      {
+        "label": "Recovery & Payments",
+        "icon": "/img/inner-banners/business-solution/bse-ico-15.jpg"
+      },
+      {
+        "label": "Marketing & Permeations",
+        "icon": "/img/inner-banners/business-solution/bse-ico-8.jpg"
+      },
+      {
+        "label": "Product Campaigns",
+        "icon": "/img/inner-banners/business-solution/bse-ico-9.jpg"
+      },
+      {
+        "label": "Projects & Services",
+        "icon": "/img/inner-banners/business-solution/bse-ico-7.jpg"
+      },
+      {
+        "label": "Transportation",
+        "icon": "/img/inner-banners/business-solution/bse-ico-14.jpg"
+      },
+      {
+        "label": "Fix Assets mgmt",
+        "icon": "/img/inner-banners/business-solution/bse-ico-2.jpg"
+      },
+      {
+        "label": "SMS",
+        "icon": "/img/inner-banners/business-solution/bse-ico-10.jpg"
+      },
+      {
+        "label": "Analysis & Reports",
+        "icon": "/img/inner-banners/business-solution/bse-ico-13.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/business-solution/bse-ico-17.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/business-solution/bse-ico-20.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/business-solution/bse-ico-18.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/business-solution/bse-ico-16.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/business-solution/bse-ico-19.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Module Wise Features",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "This system allows to manage Multiple Companies in Single software",
+              "Manage multiple further Business Units, Operating Units Location Wise, etc.",
+              "Unlimited License or Periodic License",
+              "Unlimited financial Sessions",
+              "Export Reports to Excel, Word, PDF, Text & HTML"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Smart Features",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "General Ledger:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Customizable Chart of Accounts (Multi Business)",
+              "Double entry Accounting System",
+              "Financial Session Closing on a Single Click"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Inventory and Product Management System:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Customizable Product Hierarchy",
+              "Design required Controls and Restrictions on Inventory and Product Category",
+              "Maintain inventory in more than one stocks holder",
+              "Product wise rate revision entry",
+              "Stock holder wise sale of inventory",
+              "Edit multiple product attributes and price on single form",
+              "Single product type can be store in multiple packing sizes",
+              "Maintain inventory batch wise and its reporting",
+              "Barcode printing system",
+              "Inter stockholder stock transferring",
+              "Stock Holder Wise Inventory Revaluation",
+              "Maintain damage Stock and replacement inventory"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Procurement:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Customize purchase voucher style",
+              "Restrict any product scope purchase purpose",
+              "All type of Taxation Auto Configurations on Purchases"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Sales:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Sales orders",
+              "Parties Contacts management & address book",
+              "Pending Sales to Parties",
+              "Area wise segmentation of Parties",
+              "Manage Sales Scheme",
+              "Product wise target to area sales manager"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Customize sales voucher style",
+              "Maintain town wise sale man visit schedule",
+              "Salesman P.R book issuance record",
+              "All type of Taxation Auto Configurations on Purchases",
+              "Sample sales entry module and their Reports"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Employee Payroll Management Module:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Biometric attendance System",
+              "Department Wise Employee Division",
+              "Employees Profile",
+              "Employees Leaves & Absentees Record"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Advances & Loan to Staff Management",
+              "Staff Loan Rescheduling",
+              "Over / Short Time Management",
+              "Monthly Payroll / Salary Sheet"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Advance Features:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Management Console",
+              "Accounts Configuration (User Base Account Handling system)",
+              "Style Financial Statements (Design Financial Statement according to your own Formats)",
+              "Search & Help on all Forms Using Short keys",
+              "Audit Management Module for proper checking of all posted voucher"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Utilities:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Back-up, Restore and data safety system",
+              "Accounts Transaction shifting",
+              "Quantity wise ledger and posting in A/c voucher",
+              "Provisional voucher"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Security Management:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Navigation Security System",
+              "Multi User Accounts",
+              "User Login Security",
+              "User Rights Management (Forms access Rights, Reports, View, Edit, Delete, Print etc.)",
+              "User Accounts Association System"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Strong Reporting System Providing in depth analytical reports",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Stock report:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Product wise ledger",
+              "Summarize stock Activity report",
+              "Stock aging report",
+              "Stock Report (company, product and distribution wise)",
+              "Stock count sheet & Reorder Report",
+              "Dead stock against Sales report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Account Module Reports:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Chart of Accounts",
+              "Cash Book",
+              "Ledger",
+              "Transactions Book",
+              "Cash Flow Statement",
+              "Subsidiary Sheet",
+              "Trial Balance"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Income Statement (Consolidate)",
+              "Income statement (Business Unit Wise)",
+              "Balance Sheet (Consolidate & Business Unit Wise)",
+              "Daily Voucher Report",
+              "Parties wise, invoice wise and product",
+              "wise G.P Report",
+              "Credit sales recoverable aging report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Extra Reports:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Cash Book Designer Report",
+              "Transactional Balance",
+              "Comparative Analysis MIS",
+              "Comparative Analysis Template"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Comparative Statements",
+              "Comparative Analysis",
+              "Income Reconciliation",
+              "Working Capital Management Report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Bank Module Reporting:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Bank General Receipts",
+              "Bank General Payment",
+              "Bank Receipts Reports",
+              "Bank Payment Report"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Check Book Report",
+              "Mark Up Report",
+              "Mark Up Calculation Report"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Payroll Module Reporting:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Employee List Report",
+              "Employee Leaves / Absentees Report",
+              "Staff Department Wise Salary Report",
+              "Payroll Reconciliation Report",
+              "Session reclosing"
+            ]
+          },
+          {
+            "type": "list",
+            "items": [
+              "Check Book Report",
+              "Mark Up Report",
+              "Mark Up Calculation Report"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Afzal Electric & Machinery Co (AEMC)",
+      "Agren",
+      "Al Aziz Electric Store",
+      "Al Khair Flour Mills (Pvt) Ltd",
+      "Allure Chemicals",
+      "Anza Chemicals",
+      "Asif Traders/MH Traders",
+      "Atta Chemicals (pvt) Ltd",
+      "Bashir & Sons",
+      "Classic Emporium",
+      "Clear Solution Pvt Ltd",
+      "Commander International Pvt Ltd",
+      "Eon Fertilizers",
+      "Global Care Company",
+      "Harral Group",
+      "Ittefaq Traders",
+      "Kanzo AG",
+      "Khawaja Minerals Industries",
+      "Mahmood and Co.",
+      "Master Carton",
+      "Mustafa Game Center",
+      "Nova Agro Chemicals",
+      "Pops Club",
+      "Rainbow Kukoo",
+      "Rainbow Packages",
+      "Ravi Agro Chemicals",
+      "SCHIWO Pakistan",
+      "SG Polypropelene",
+      "Sheikh Ibrahim & Sons",
+      "Shujabad Oil Mills (Pvt) Limited",
+      "UK Chemicals",
+      "U-M Pesticides and Fertilizer",
+      "Usama Traders",
+      "Ventus Agro"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/BusinessSolutionEnterprise"
+  },
+  {
+    "slug": "business-solution-standard",
+    "key": "BusinessSolutionStandard",
+    "category": "enterprise",
+    "title": "Business Solution",
+    "accent": "Standards",
+    "modulesHeading": "Business Solution Standard Operational Modules:",
+    "description": [
+      "This is one of the most selling software because it caters to a large number of medium to large distributors. It is a complete solution for your distribution which would give you the complete detail of every item present there."
+    ],
+    "modules": [
+      {
+        "label": "Multi Business Units",
+        "icon": "/img/inner-banners/business-solution/bse-ico-12.jpg"
+      },
+      {
+        "label": "Multiple Distributions",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-1.jpg"
+      },
+      {
+        "label": "geographical Clients",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-11.jpg"
+      },
+      {
+        "label": "Purchase Module",
+        "icon": "/img/inner-banners/business-solution/bse-ico-3.jpg"
+      },
+      {
+        "label": "Manufacturing Module",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-8.jpg"
+      },
+      {
+        "label": "Sampling",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-3.jpg"
+      },
+      {
+        "label": "Sales Targets",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-4.jpg"
+      },
+      {
+        "label": "Sale / Orders Module",
+        "icon": "/img/inner-banners/business-solution/bse-ico-4.jpg"
+      },
+      {
+        "label": "DSR",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-10.jpg"
+      },
+      {
+        "label": "Recovery & Payments",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-9.jpg"
+      },
+      {
+        "label": "Claims Mgmt",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-7.jpg"
+      },
+      {
+        "label": "Transportation",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-6.jpg"
+      },
+      {
+        "label": "SMS",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-5.jpg"
+      },
+      {
+        "label": "Trade Offers /Schemes",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-2.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-13.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-16.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-14.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-12.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/bs-stsndard/standard-ico-15.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Adeel Traders",
+      "Adil Zameer & Co",
+      "Agri Home Feeds",
+      "Agrics International (pvt) Ltd",
+      "Akram and Co.",
+      "Al Falah Gas Appliances",
+      "Al Hayat Enterprises",
+      "Al Khair Floor Mills",
+      "Al Qaim PVC Pipe Factory",
+      "Al Rehman Zari Corporation",
+      "Al Saeed Communications",
+      "Al Tammam EST (KSA)",
+      "Al Wahid Zari Markaz",
+      "Ali Hassan Al Qureshi",
+      "Ali Murad Carrier",
+      "Ali Traders",
+      "Ameen Shoes Material Store",
+      "Amjad & Brothers",
+      "Arain Brothers",
+      "Asif Distributions",
+      "Awamy Traders",
+      "Banu Hashim Group",
+      "Best Trading Company",
+      "Bin Saeed Communication",
+      "Bismillah Traders",
+      "Butt Shoes Store",
+      "C Prints/Clifton Studio",
+      "Caltex Center",
+      "Caltex Point",
+      "Chaudhary Telecom",
+      "Cool Linx",
+      "COR Enterprises",
+      "Cross fit Gym",
+      "Digital Solutions",
+      "EPCL",
+      "F.R Trading Company",
+      "Fairways Enterprises",
+      "Four Seasons Agri Services",
+      "Golden Traders",
+      "GR and Sons",
+      "Grace Marketing CO",
+      "Gulistan Auto Center",
+      "Habib Essence Mart",
+      "Hadi Food Industries",
+      "Hamza Gift and Kids Shop",
+      "Hawk Vet",
+      "Ideal (Distribution Company)",
+      "Ideal Marketing",
+      "Imperial Electronics",
+      "Imported Birds & Fish Aquarium Centre",
+      "Inder Laal Pesticides",
+      "Irfan Azmeer Traders",
+      "Jalal Din & Sons",
+      "Kamboh Enterprises",
+      "Khawaja Batteries",
+      "Khawaja Traders",
+      "Khurram Traders",
+      "Khushali Agro Services, Al Karim Zarai Service",
+      "M Shafiq & Brothers",
+      "M&W International",
+      "M/S Innovations",
+      "Mabsant Pharma",
+      "Major Electric Store",
+      "Makwal Agro Services",
+      "Malik Food Productions",
+      "Malik Traders",
+      "Marib Traders",
+      "Mehar Impex",
+      "Mirza Afaq Baig",
+      "Mobile Club (Sky Phone)",
+      "Mughal Group of Companies (MGC)",
+      "Muhammad Communication Kabirwala/Micro Link",
+      "Muhammad Usman",
+      "Multan Carpet Industries",
+      "Multan Paints",
+      "Muneeb Traders",
+      "Mushtaq Dawakhana",
+      "MZ Traders",
+      "Najeeb Cloth House",
+      "Nasir Traders",
+      "New Sindh Pesticide Agency (NSPA)",
+      "Pak National Distribution and Masood & Company",
+      "Panorama Garments",
+      "Pason Life Sciences",
+      "Pelican Pharma",
+      "Petrotec South",
+      "PolyPet (Pvt) Limited",
+      "Prime Organic Products PVT Ltd",
+      "Prime PVC Company",
+      "Pure n Sure Pvt Ltd",
+      "Qaiser Paints",
+      "R.M Sons",
+      "Rajput Brothers",
+      "RAK Multan",
+      "Rashid/Rizwan Shoes and General Store",
+      "Ronaq Plastic Industry",
+      "S&S Enterprises",
+      "Saaim Traders",
+      "SASO & CO",
+      "SCHIWO Pakistan",
+      "Shah & Sons Plastic Pipe Factory",
+      "Sheikh & Co.",
+      "Sheikh Ibrahim & Sons (Project 2)",
+      "Sheikh Lateef and Sons",
+      "Sheikh Traders",
+      "SMR Traders",
+      "South Asian Textile Industries",
+      "Sultan Machinery Markaz",
+      "Syed Brothers",
+      "Tariq Enterprises",
+      "Tariq Shehzad(Video Center)/Pearl Photo Studio",
+      "The Engineers",
+      "Toyota Accessories Motors",
+      "Toyota Bhwalpul Motors",
+      "United Mobile DIK",
+      "Usman Center",
+      "Wains Commission Agent",
+      "World Link",
+      "Yaqoub & Company",
+      "Zain Traders",
+      "Zameer General Store",
+      "Zubair Traders"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/BusinessSolutionStandard"
+  },
+  {
+    "slug": "auto-dealer",
+    "key": "AutoDealer",
+    "category": "enterprise",
+    "title": "Auto Dealer 3S",
+    "accent": "Features",
+    "modulesHeading": "Auto Dealer Operational Modules:",
+    "description": [
+      "One of the most explicit software solution designed for 3S Auto Dealer Business Ventures. A complete solution which guarantee to provide the smoothest 3S experience i.e. Sales, Services and Spare Parts.",
+      "This particular software would not just work as some machine, but it would be your business companion which is there to ease your work, keeps and integrated records with a vision to lessen operational burden. Enabling increased Business Efficiency and have all the details regarding your business, clients, employees, sales, purchases, payments and many more in clicks."
+    ],
+    "modules": [
+      {
+        "label": "Autos Sales System",
+        "icon": "/img/inner-banners/auto/auto-ico-1.jpg"
+      },
+      {
+        "label": "Bookings",
+        "icon": "/img/inner-banners/auto/auto-ico-2.jpg"
+      },
+      {
+        "label": "Invoicing",
+        "icon": "/img/inner-banners/auto/auto-ico-3.jpg"
+      },
+      {
+        "label": "Receiving",
+        "icon": "/img/inner-banners/auto/auto-ico-4.jpg"
+      },
+      {
+        "label": "Delivery",
+        "icon": "/img/inner-banners/auto/auto-ico-5.jpg"
+      },
+      {
+        "label": "Investors Investments",
+        "icon": "/img/inner-banners/auto/auto-ico-6.jpg"
+      },
+      {
+        "label": "Service System",
+        "icon": "/img/inner-banners/auto/auto-ico-7.jpg"
+      },
+      {
+        "label": "Departments",
+        "icon": "/img/inner-banners/auto/auto-ico-8.jpg"
+      },
+      {
+        "label": "Repair Orders",
+        "icon": "/img/inner-banners/auto/auto-ico-9.jpg"
+      },
+      {
+        "label": "pre Delivery inspections",
+        "icon": "/img/inner-banners/auto/auto-ico-10.jpg"
+      },
+      {
+        "label": "Warrantee",
+        "icon": "/img/inner-banners/auto/auto-ico-11.jpg"
+      },
+      {
+        "label": "Insurance",
+        "icon": "/img/inner-banners/auto/auto-ico-12.jpg"
+      },
+      {
+        "label": "Spare Parts System",
+        "icon": "/img/inner-banners/auto/auto-ico-13.jpg"
+      },
+      {
+        "label": "Purchase Module",
+        "icon": "/img/inner-banners/auto/auto-ico-14.jpg"
+      },
+      {
+        "label": "Sale Module",
+        "icon": "/img/inner-banners/auto/auto-ico-15.jpg"
+      },
+      {
+        "label": "Market Purchase",
+        "icon": "/img/inner-banners/auto/auto-ico-16.jpg"
+      },
+      {
+        "label": "store issuance & return",
+        "icon": "/img/inner-banners/auto/auto-ico-17.jpg"
+      },
+      {
+        "label": "Car Wash",
+        "icon": "/img/inner-banners/auto/auto-ico-18.jpg"
+      },
+      {
+        "label": "KPI / MSI",
+        "icon": "/img/inner-banners/auto/auto-ico-19.jpg"
+      },
+      {
+        "label": "Stationary mgmt",
+        "icon": "/img/inner-banners/auto/auto-ico-20.jpg"
+      },
+      {
+        "label": "Customer Relationship",
+        "icon": "/img/inner-banners/auto/auto-ico-21.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/auto/auto-ico-25.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/auto/auto-ico-26.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/auto/auto-ico-23.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/auto/auto-ico-24.jpg"
+      },
+      {
+        "label": "Accounts & Finance",
+        "icon": "/img/inner-banners/auto/auto-ico-22.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Features of Sale Management System",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Provisional Booking Order (PBO):"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Applicant Info",
+              "Financing Company Info",
+              "Investor Info",
+              "Payment Instrument Info"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Vehicle Dispatch Information:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Dispatch Invoice with Complete Particulars",
+              "Complete Detail of Vehicle (variants) and Amount with GST"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Vehicle Sale Invoice:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Entry of Sales Invoice Particulars",
+              "Sales Certificate Number"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Vehicle Delivery Information and Tracking:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Vehicle Location Entry and Tracking",
+              "Vehicle Information",
+              "Customer/Buyer Information"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Provisional Booking Order (PBO):"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Applicant Info",
+              "Financing Company Info",
+              "Investor Info",
+              "Payment Instrument Info"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Automatic Printing of Following Reports while Transaction is recorded:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Customer Note of Satisfaction",
+              "Transit Pass",
+              "NVDS",
+              "Gate Pass",
+              "Authority Letter"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Party/Company Receipts"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Recovery Against Vehicle in Bank/Cash/on Account"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Salesman Commission Information"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Salesman Wise Commission Calculation",
+              "Payment on Sale of Vehicle"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Reports of Sales Management System",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "PBO Receipts",
+              "Vehicle Booking Report (With Payment Info)",
+              "Vehicle Delivery Report (With Profit Share of Dealers)",
+              "Freight on Vehicle Report (With Actual Paid and Charged to Customer)",
+              "Company Commission on Vehicles",
+              "Investor Record Sheet",
+              "Salesman Commission Status Report"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Features of Service Management System",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Features of Service Management System:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Request for Parts Issuance against RO",
+              "Sublet Work Transactions Recording against RO",
+              "Labor Charges"
+            ]
+          },
+          {
+            "type": "h",
+            "text": "Repair Order Recovery/Payments:"
+          },
+          {
+            "type": "h",
+            "text": "Pre Delivery Inspections:"
+          },
+          {
+            "type": "h",
+            "text": "Claims Management System:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "FFS Entry and Claim",
+              "Warranty Claims",
+              "Insurance Claims"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Reports of Services Management System",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Daily Process Control Sheet (General/Body Paint Repairing Orders)",
+              "Repair Order (Pending RO’s)",
+              "Repair Order Wise Profit Report",
+              "Complete/Repair",
+              "Service Claims",
+              "Report (Pending Warranty Claims)",
+              "KPI/MSI Report"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Features of Spare Parts Management System",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Purchase of Parts (with/without GST)",
+              "Sale of Parts to Service Department (Against R/O)",
+              "Parts Request Dashboard",
+              "Counter Sale of Parts",
+              "Market Purchase Entry for Parts"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Reports of Spare Parts Management System",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Stock Reports",
+              "Daily Store Activity",
+              "Stock Movement Report",
+              "Store Sale Report",
+              "MAD Calculation Report (Monthly Average Demand)"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Accounts and Finance",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Employee Profile Management",
+              "Auto Computation and Posting of Payroll to General Ledger",
+              "Advance Against Salary Recording and Deduction",
+              "Loan Against Salary Recording and Deduction"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Payroll Management",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Employee Profile Management",
+              "Auto Computation and Posting of Payroll to General Ledger",
+              "Advance Against Salary Recording and Deduction",
+              "Loan Against Salary Recording and Deduction"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Reports",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Chart of Accounts",
+              "Cash Book",
+              "Transaction Book",
+              "Account Ledger",
+              "Trial Balance",
+              "Income Statement",
+              "Balance Sheet",
+              "Daily Voucher Report"
+            ]
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "Fort Multan Motors",
+      "Hyundai Multan Motors",
+      "Toyota Bhwalpul Motors",
+      "Toyota City Motors"
+    ],
+    "brochure": "/downloads/auto-dealer.pdf",
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/AutoDealer"
+  },
+  {
+    "slug": "property-manager",
+    "key": "PropertyManager",
+    "category": "enterprise",
+    "title": "Property",
+    "accent": "Manager",
+    "modulesHeading": "Property Manager Operational Modules:",
+    "description": [
+      "A complete solution for Property Scheme Management providing leverage of managing Multiple Property Schemes in a single Go.",
+      "Not only property records can be easily maintained here but also you can keep a complete track record of payments, instalments and parties to whom you have sold the land area. EduPropertyManager is designed by keeping in mind to serve the maximum potential pained areas of industry enabling to cater all requirement which are desired to have in software solution to work easily."
+    ],
+    "modules": [
+      {
+        "label": "Land Mgmt",
+        "icon": "/img/inner-banners/property/property-ico-1.jpg"
+      },
+      {
+        "label": "Schemes / Phases",
+        "icon": "/img/inner-banners/property/property-ico-2.jpg"
+      },
+      {
+        "label": "Plotting",
+        "icon": "/img/inner-banners/property/property-ico-3.jpg"
+      },
+      {
+        "label": "Property Agents",
+        "icon": "/img/inner-banners/property/property-ico-4.jpg"
+      },
+      {
+        "label": "Installments",
+        "icon": "/img/inner-banners/property/property-ico-5.jpg"
+      },
+      {
+        "label": "Payment & Recovery",
+        "icon": "/img/inner-banners/property/property-ico-6.jpg"
+      },
+      {
+        "label": "Plot Transfer",
+        "icon": "/img/inner-banners/property/property-ico-7.jpg"
+      },
+      {
+        "label": "Land Load Payments",
+        "icon": "/img/inner-banners/property/property-ico-8.jpg"
+      },
+      {
+        "label": "Registry",
+        "icon": "/img/inner-banners/property/property-ico-9.jpg"
+      },
+      {
+        "label": "Legal Notice",
+        "icon": "/img/inner-banners/property/property-ico-10.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/property/property-ico-12.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/property/property-ico-15.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/property/property-ico-13.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/property/property-ico-11.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/property/property-ico-14.jpg"
+      }
+    ],
+    "accordion": [
+      {
+        "title": "Chart of Accounts",
+        "blocks": [
+          {
+            "type": "h",
+            "text": "Measuring Unit Categories:"
+          },
+          {
+            "type": "p",
+            "text": "Define Area size e.g. Marla, Yards, Kanal, Acre, Square Feet, etc. Helpful in creating actual sales orders in future maintaining maximum details possible."
+          },
+          {
+            "type": "h",
+            "text": "Parties Types:"
+          },
+          {
+            "type": "p",
+            "text": "Define your clients according to their profession for example clients, brokers, dealers or any other. It allows to maintain and filter records as per futuristic needs."
+          },
+          {
+            "type": "h",
+            "text": "Region Information:"
+          },
+          {
+            "type": "p",
+            "text": "Divide your parties according to the specific region which will further help you when looking for parties region wise."
+          },
+          {
+            "type": "h",
+            "text": "Territory Information:"
+          },
+          {
+            "type": "p",
+            "text": "Further detail with territory information where you can provide even more details for the regions which you have entered with the sub division of territories."
+          },
+          {
+            "type": "h",
+            "text": "Scheme Information Definition:"
+          },
+          {
+            "type": "p",
+            "text": "Maintain the data for several projects in on system. There is no limit of how much projects you are working on or planning to work, everything can be definedfor easy future operations."
+          },
+          {
+            "type": "h",
+            "text": "Sector Information:"
+          },
+          {
+            "type": "p",
+            "text": "Sub divide each of your projects in different sectors included inthat single project. It will make work easy in looking at the complete areas."
+          },
+          {
+            "type": "h",
+            "text": "Location Information:"
+          },
+          {
+            "type": "p",
+            "text": "Management and Owners canaccess complete data to view the happenings at head office and as well as for the onsite location as well."
+          },
+          {
+            "type": "h",
+            "text": "Property Information:"
+          },
+          {
+            "type": "p",
+            "text": "Pin point the property areas in your schemes. So at transactional level easily select the land area within the blocks, sectors and schemes."
+          },
+          {
+            "type": "h",
+            "text": "Property Attributes:"
+          },
+          {
+            "type": "p",
+            "text": "A very unique and helpful option because it will completely describes the attributes of every land area i.e. which land is near the park or mosque or any other place. This will help the consumer decide in making the decision with more confidence and ease."
+          },
+          {
+            "type": "h",
+            "text": "Property Type:"
+          },
+          {
+            "type": "p",
+            "text": "This option will let you decide the type of property and which to show to which type of customer. Here you would be able to look at the property that whether it is commercial, residential or for any other purpose."
+          },
+          {
+            "type": "h",
+            "text": "Property Information:"
+          },
+          {
+            "type": "p",
+            "text": "All the relevant detail regarding the plot or any property scheme would be available in this option such as area, size of the property, location, sector and several more."
+          },
+          {
+            "type": "h",
+            "text": "Installment Type:"
+          },
+          {
+            "type": "p",
+            "text": "Now collecting and keeping a track of the installment payments is not an issue because this software is offering the options of Annually, Half Yearly, Quarterly and monthly options for Installments collection. Also there are some several other options which will deal with your various other options as well."
+          },
+          {
+            "type": "h",
+            "text": "Booking Information:"
+          },
+          {
+            "type": "p",
+            "text": "In this option you will have the complete information for any booking that is made by the client."
+          },
+          {
+            "type": "h",
+            "text": "Booking terms & condition:"
+          },
+          {
+            "type": "p",
+            "text": "As the name is self explanatory, this particular option will let you finalize the complete terms and conditions that shall take place between both the parties."
+          },
+          {
+            "type": "h",
+            "text": "Booking Revision Information:"
+          },
+          {
+            "type": "p",
+            "text": "This option comes in handy when you will make any changes in “booking terms and conditions” will be made and it will automatically adjust your further entries on those particular changes."
+          },
+          {
+            "type": "h",
+            "text": "Booking Cancellation:"
+          },
+          {
+            "type": "p",
+            "text": "Any cancellation in the booking that is being made by any side shall be compensated in this option. Further it will provide you with all the information of the pending payments which from either party has to be made."
+          },
+          {
+            "type": "h",
+            "text": "Landlord Payment Schedule:"
+          },
+          {
+            "type": "p",
+            "text": "If you are working on a rental area, you will be paying your landlord some amount for that. This software will provide you with payment options and time on which you have to make a payment to your landlord."
+          },
+          {
+            "type": "h",
+            "text": "Booking Receipts:"
+          },
+          {
+            "type": "p",
+            "text": "Any type of payments that you will receive from the party will easily be adjusted, whether it is via cash, bank draft, cheque or any other option."
+          },
+          {
+            "type": "h",
+            "text": "Booking Transfer Information:"
+          },
+          {
+            "type": "p",
+            "text": "For any reason, you want to make a transfer for the current booking, you can easily do that with this particular option. All the required entries shall be moved without creating any problem whatsoever."
+          },
+          {
+            "type": "h",
+            "text": "Legal Notice:"
+          },
+          {
+            "type": "p",
+            "text": "For your legal proceedings and activities, the option of legal notice would come in very useful. For any particular reason, you need to provide any legal notice to your clients; this option would certainly help you in easing the procedure."
+          }
+        ]
+      }
+    ],
+    "clients": [
+      "AlFalah Model City",
+      "Ali Associates",
+      "Al-Mehmood Estate Developers and Town Planners",
+      "Gulistan Property Marketing",
+      "Karimabad Cooperative Housing Society",
+      "Qasim Town",
+      "RSF Group"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/PropertyManager"
+  },
+  {
+    "slug": "ginning-manager",
+    "key": "GinningManager",
+    "category": "enterprise",
+    "title": "Ginning",
+    "accent": "Manager",
+    "modulesHeading": "Ginning Manager Operational Modules:",
+    "description": [
+      "Details coming Soon..."
+    ],
+    "modules": [
+      {
+        "label": "Weightment",
+        "icon": "/img/inner-banners/ginning/ginning-ico-1.jpg"
+      },
+      {
+        "label": "Phutti Purchase",
+        "icon": "/img/inner-banners/ginning/ginning-ico-2.jpg"
+      },
+      {
+        "label": "Production Process",
+        "icon": "/img/inner-banners/ginning/ginning-ico-3.jpg"
+      },
+      {
+        "label": "Lint mgmt",
+        "icon": "/img/inner-banners/ginning/ginning-ico-4.jpg"
+      },
+      {
+        "label": "Seed Mgmt",
+        "icon": "/img/inner-banners/ginning/ginning-ico-5.jpg"
+      },
+      {
+        "label": "Waste Mgmt",
+        "icon": "/img/inner-banners/ginning/ginning-ico-6.jpg"
+      },
+      {
+        "label": "Sales",
+        "icon": "/img/inner-banners/ginning/ginning-ico-7.jpg"
+      },
+      {
+        "label": "Seed Purchase",
+        "icon": "/img/inner-banners/ginning/ginning-ico-8.jpg"
+      },
+      {
+        "label": "Oil Production Process",
+        "icon": "/img/inner-banners/ginning/ginning-ico-9.jpg"
+      },
+      {
+        "label": "Seed Cake Sale",
+        "icon": "/img/inner-banners/ginning/ginning-ico-10.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/ginning/ginning-ico-11.jpg"
+      },
+      {
+        "label": "Party Ledger",
+        "icon": "/img/inner-banners/ginning/ginning-ico-12.jpg"
+      },
+      {
+        "label": "Analysis Reports",
+        "icon": "/img/inner-banners/ginning/ginning-ico-13.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/ginning/ginning-ico-17.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/ginning/ginning-ico-15.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/ginning/ginning-ico-14.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/ginning/ginning-ico-16.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Farhan Cotton Ginners",
+      "Friends Cotton Ginners",
+      "Haji Ali Muhammad Cotton Ginners and Oil",
+      "Hamza Javed Cotton Industries Unit 2",
+      "Shujabad Industries (Pvt) Limited",
+      "Zaffar Cotton Industries"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/GinningManager"
+  },
+  {
+    "slug": "agri-manager",
+    "key": "AgriManager",
+    "category": "enterprise",
+    "title": "Agri",
+    "accent": "Manager",
+    "modulesHeading": "Agri Manager Operational Modules:",
+    "description": [
+      "Details coming Soon..."
+    ],
+    "modules": [
+      {
+        "label": "Land Map Making",
+        "icon": "/img/inner-banners/agri/agri-ico-1.jpg"
+      },
+      {
+        "label": "Products with Variations",
+        "icon": "/img/inner-banners/agri/agri-ico-2.jpg"
+      },
+      {
+        "label": "Crop / Seasons",
+        "icon": "/img/inner-banners/agri/agri-ico-3.jpg"
+      },
+      {
+        "label": "Land Selection",
+        "icon": "/img/inner-banners/agri/agri-ico-4.jpg"
+      },
+      {
+        "label": "Crop Activity Schedules",
+        "icon": "/img/inner-banners/agri/agri-ico-5.jpg"
+      },
+      {
+        "label": "Purchase",
+        "icon": "/img/inner-banners/agri/agri-ico-7.jpg"
+      },
+      {
+        "label": "Sales",
+        "icon": "/img/inner-banners/agri/agri-ico-6.jpg"
+      },
+      {
+        "label": "Crop Activity Occurrence",
+        "icon": "/img/inner-banners/agri/agri-ico-8.jpg"
+      },
+      {
+        "label": "Land Inputs / Outputs",
+        "icon": "/img/inner-banners/agri/agri-ico-9.jpg"
+      },
+      {
+        "label": "Labor Mgmt",
+        "icon": "/img/inner-banners/agri/agri-ico-10.jpg"
+      },
+      {
+        "label": "Land Leasing",
+        "icon": "/img/inner-banners/agri/agri-ico-11.jpg"
+      },
+      {
+        "label": "Foreign / Local Market",
+        "icon": "/img/inner-banners/agri/agri-ico-12.jpg"
+      },
+      {
+        "label": "Input Analysis",
+        "icon": "/img/inner-banners/agri/agri-ico-13.jpg"
+      },
+      {
+        "label": "Output Analysis",
+        "icon": "/img/inner-banners/agri/agri-ico-14.jpg"
+      },
+      {
+        "label": "Alert System",
+        "icon": "/img/inner-banners/agri/agri-ico-15.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/agri/agri-ico-17.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/agri/agri-ico-20.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/agri/agri-ico-18.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/agri/agri-ico-16.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/agri/agri-ico-19.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Daha Agriculture Farms",
+      "Khan Farms",
+      "M. Abid Hussain Gardezi",
+      "Noor Ud Din Ahmad",
+      "Shan Zarai Farm"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/AgriManager"
+  },
+  {
+    "slug": "studio-manager",
+    "key": "StudioManager",
+    "category": "enterprise",
+    "title": "Studio",
+    "accent": "Manager",
+    "modulesHeading": "Studio Manager Operational Modules:",
+    "description": [
+      "Details coming Soon..."
+    ],
+    "modules": [
+      {
+        "label": "Products",
+        "icon": "/img/inner-banners/studio/studio-ico-1.jpg"
+      },
+      {
+        "label": "Service Packages",
+        "icon": "/img/inner-banners/studio/studio-ico-2.jpg"
+      },
+      {
+        "label": "Machine Mgmt",
+        "icon": "/img/inner-banners/studio/studio-ico-3.jpg"
+      },
+      {
+        "label": "Digital Effects",
+        "icon": "/img/inner-banners/studio/studio-ico-4.jpg"
+      },
+      {
+        "label": "Studio Shootings",
+        "icon": "/img/inner-banners/studio/studio-ico-5.jpg"
+      },
+      {
+        "label": "Re Order",
+        "icon": "/img/inner-banners/studio/studio-ico-6.jpg"
+      },
+      {
+        "label": "D & P",
+        "icon": "/img/inner-banners/studio/studio-ico-7.jpg"
+      },
+      {
+        "label": "Studio Lab Mgmt",
+        "icon": "/img/inner-banners/studio/studio-ico-8.jpg"
+      },
+      {
+        "label": "Outdoor Functions",
+        "icon": "/img/inner-banners/studio/studio-ico-9.jpg"
+      },
+      {
+        "label": "Image Record Mgmt",
+        "icon": "/img/inner-banners/studio/studio-ico-10.jpg"
+      },
+      {
+        "label": "SMS",
+        "icon": "/img/inner-banners/studio/studio-ico-11.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/studio/studio-ico-12.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/studio/studio-ico-15.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/studio/studio-ico-13.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/studio/studio-ico-14.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Galaxy Color Lab",
+      "Sky Colour Lab"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/StudioManager"
+  },
+  {
+    "slug": "business-solutions-accounts-inventory",
+    "key": "BusinessSolutionsAccountsInventory",
+    "category": "enterprise",
+    "title": "Business Solution",
+    "accent": "Accounts & Inventory",
+    "modulesHeading": "Business Solution Accounts & Inventory Operational Modules:",
+    "description": [
+      "Details coming Soon..."
+    ],
+    "modules": [
+      {
+        "label": "Multi Business Units",
+        "icon": "/img/inner-banners/bs-account/acc-ico-1.jpg"
+      },
+      {
+        "label": "Job Cards Mgmt",
+        "icon": "/img/inner-banners/bs-account/acc-ico-3.jpg"
+      },
+      {
+        "label": "Activity / Labor",
+        "icon": "/img/inner-banners/bs-account/acc-ico-4.jpg"
+      },
+      {
+        "label": "Invoicing",
+        "icon": "/img/inner-banners/bs-account/acc-ico-5.jpg"
+      },
+      {
+        "label": "Recoveries",
+        "icon": "/img/inner-banners/bs-account/acc-ico-6.jpg"
+      },
+      {
+        "label": "Expenses",
+        "icon": "/img/inner-banners/bs-account/acc-ico-7.jpg"
+      },
+      {
+        "label": "Hoarding Mgmt",
+        "icon": "/img/inner-banners/bs-account/acc-ico-8.jpg"
+      },
+      {
+        "label": "Asset s Mgmt",
+        "icon": "/img/inner-banners/bs-account/acc-ico-2.jpg"
+      },
+      {
+        "label": "Inventory Module",
+        "icon": "/img/inner-banners/bs-account/acc-ico-10.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/bs-account/acc-ico-13.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/bs-account/acc-ico-11.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/bs-account/acc-ico-9.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/bs-account/acc-ico-12.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Abdullah Packages Industries",
+      "Akbar Naeem Construction",
+      "Al Aziz Associates",
+      "Al-Muntazir Agriculture Farm",
+      "Anjuman Jamia Masjid 380-A",
+      "Asian Dairy Farm",
+      "CKK Traders",
+      "Fabcon Contractors",
+      "Farooqi Traders",
+      "Fine Tax/AGS Packages Pvt Ltd",
+      "Karachi Cloth Merchant",
+      "Khan Property",
+      "Khawaja Brothers",
+      "M Ahmed Sarshan and Construction Company",
+      "Malik Manzoor and Co.",
+      "Mehr Dastagir Spinning Mills",
+      "Moonlight Autos",
+      "New Super Poultry Protein Processors",
+      "Pace Advertising Company",
+      "Pakistan Graphics",
+      "Raja Sahib Card Center"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/EnterpriseSolutions/BusinessSolutionsAccountsInventory"
+  },
+  {
+    "slug": "accountant-gold",
+    "key": "AccountantGold",
+    "category": "more",
+    "title": "Accountant",
+    "accent": "Gold",
+    "modulesHeading": "Accountant Gold Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Cash Vouchers",
+        "icon": "/img/inner-banners/gold/gold-ico-1.jpg"
+      },
+      {
+        "label": "Bank Vouchers",
+        "icon": "/img/inner-banners/gold/gold-ico-2.jpg"
+      },
+      {
+        "label": "General Vouchers",
+        "icon": "/img/inner-banners/gold/gold-ico-3.jpg"
+      },
+      {
+        "label": "Reports",
+        "icon": "/img/inner-banners/gold/gold-ico-4.jpg"
+      },
+      {
+        "label": "Cash Books",
+        "icon": "/img/inner-banners/gold/gold-ico-5.jpg"
+      },
+      {
+        "label": "Transaction Books",
+        "icon": "/img/inner-banners/gold/gold-ico-6.jpg"
+      },
+      {
+        "label": "Ledgers",
+        "icon": "/img/inner-banners/gold/gold-ico-7.jpg"
+      },
+      {
+        "label": "Cash Flow Statements",
+        "icon": "/img/inner-banners/gold/gold-ico-8.jpg"
+      },
+      {
+        "label": "Trial Balance",
+        "icon": "/img/inner-banners/gold/gold-ico-9.jpg"
+      },
+      {
+        "label": "Income Statement",
+        "icon": "/img/inner-banners/gold/gold-ico-10.jpg"
+      },
+      {
+        "label": "Balance Sheet",
+        "icon": "/img/inner-banners/gold/gold-ico-11.jpg"
+      },
+      {
+        "label": "Fixed Assets Mgmt",
+        "icon": "/img/inner-banners/gold/gold-ico-12.jpg"
+      },
+      {
+        "label": "Financial Analysis",
+        "icon": "/img/inner-banners/gold/gold-ico-13.jpg"
+      },
+      {
+        "label": "Working Capital Analysis",
+        "icon": "/img/inner-banners/gold/gold-ico-14.jpg"
+      },
+      {
+        "label": "Comparative Analysis",
+        "icon": "/img/inner-banners/gold/gold-ico-15.jpg"
+      },
+      {
+        "label": "Financial Statements",
+        "icon": "/img/inner-banners/gold/gold-ico-16.jpg"
+      },
+      {
+        "label": "Multi Business Units",
+        "icon": "/img/inner-banners/gold/gold-ico-17.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/gold/gold-ico-19.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/gold/gold-ico-22.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/gold/gold-ico-20.jpg"
+      },
+      {
+        "label": "Bank Transactions",
+        "icon": "/img/inner-banners/gold/gold-ico-18.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Ali & Co. / Hyundai Motors",
+      "Al Khair Poultry",
+      "Digital Arts 2",
+      "Ali Murad Carrier",
+      "Green Ways CNG",
+      "Oriel (Pvt) Limited",
+      "Accountant Aid London",
+      "Pakeeza Flour, Oil and Ice Mill",
+      "Multan International Overseas",
+      "Tariq Imran (Personal Account)",
+      "ANK Food Industries"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/AccountantGold"
+  },
+  {
+    "slug": "hotel-manager",
+    "key": "HotelManager",
+    "category": "more",
+    "title": "Hotel",
+    "accent": "Manager",
+    "modulesHeading": "Hotel Manager Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Room Reservation",
+        "icon": "/img/inner-banners/hotel/hotel-ico-1.jpg"
+      },
+      {
+        "label": "Conference Hall Mgmt",
+        "icon": "/img/inner-banners/hotel/hotel-ico-2.jpg"
+      },
+      {
+        "label": "Banquet hall mgmt",
+        "icon": "/img/inner-banners/hotel/hotel-ico-3.jpg"
+      },
+      {
+        "label": "Check in system",
+        "icon": "/img/inner-banners/hotel/hotel-ico-4.jpg"
+      },
+      {
+        "label": "Housekeeping services",
+        "icon": "/img/inner-banners/hotel/hotel-ico-5.jpg"
+      },
+      {
+        "label": "Advance bookings",
+        "icon": "/img/inner-banners/hotel/hotel-ico-6.jpg"
+      },
+      {
+        "label": "Companies contracts",
+        "icon": "/img/inner-banners/hotel/hotel-ico-7.jpg"
+      },
+      {
+        "label": "foreign visitors",
+        "icon": "/img/inner-banners/hotel/hotel-ico-8.jpg"
+      },
+      {
+        "label": "Report to Agencies",
+        "icon": "/img/inner-banners/hotel/hotel-ico-9.jpg"
+      },
+      {
+        "label": "Outdoor services",
+        "icon": "/img/inner-banners/hotel/hotel-ico-10.jpg"
+      },
+      {
+        "label": "Bundles / offers",
+        "icon": "/img/inner-banners/hotel/hotel-ico-11.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/hotel/hotel-ico-13.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/hotel/hotel-ico-16.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/hotel/hotel-ico-14.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/hotel/hotel-ico-12.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/hotel/hotel-ico-15.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Hotel Continental Inn",
+      "Amir Rajput Caterers"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/HotelManager"
+  },
+  {
+    "slug": "transport-manager",
+    "key": "TransportManager",
+    "category": "more",
+    "title": "Transport",
+    "accent": "Manager",
+    "modulesHeading": "Transport Manager Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Vehicles information",
+        "icon": "/img/inner-banners/transport/transport-ico-1.jpg"
+      },
+      {
+        "label": "vehicle Maintenance",
+        "icon": "/img/inner-banners/transport/transport-ico-2.jpg"
+      },
+      {
+        "label": "vehicle Fuel mgmt",
+        "icon": "/img/inner-banners/transport/transport-ico-3.jpg"
+      },
+      {
+        "label": "Revenue mgmt",
+        "icon": "/img/inner-banners/transport/transport-ico-4.jpg"
+      },
+      {
+        "label": "Ticketing module",
+        "icon": "/img/inner-banners/transport/transport-ico-5.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/transport/transport-ico-7.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/transport/transport-ico-10.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/transport/transport-ico-8.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/transport/transport-ico-6.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/transport/transport-ico-9.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "Malik Ahmad Khan Freight Company",
+      "Tribal Trials Tourism"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/TransportManager"
+  },
+  {
+    "slug": "ticketing-manager",
+    "key": "TicketingManager",
+    "category": "more",
+    "title": "Ticketing",
+    "accent": "Manager",
+    "modulesHeading": "Ticketing Manager Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Multi shifts",
+        "icon": "/img/inner-banners/ticket/ticket-ico-5.jpg"
+      },
+      {
+        "label": "Ticket issue & return",
+        "icon": "/img/inner-banners/ticket/ticket-ico-4.jpg"
+      },
+      {
+        "label": "T.O. issue & return",
+        "icon": "/img/inner-banners/ticket/ticket-ico-11.jpg"
+      },
+      {
+        "label": "Head office stock",
+        "icon": "/img/inner-banners/ticket/ticket-ico-10.jpg"
+      },
+      {
+        "label": "Terminal wise stock",
+        "icon": "/img/inner-banners/ticket/ticket-ico-9.jpg"
+      },
+      {
+        "label": "Broken book stock",
+        "icon": "/img/inner-banners/ticket/ticket-ico-8.jpg"
+      },
+      {
+        "label": "Ticket books mgmt",
+        "icon": "/img/inner-banners/ticket/ticket-ico-3.jpg"
+      },
+      {
+        "label": "Denominations & colors",
+        "icon": "/img/inner-banners/ticket/ticket-ico-1.jpg"
+      },
+      {
+        "label": "Rout wise Denominations",
+        "icon": "/img/inner-banners/ticket/ticket-ico-2.jpg"
+      },
+      {
+        "label": "Compression reports",
+        "icon": "/img/inner-banners/ticket/ticket-ico-6.jpg"
+      },
+      {
+        "label": "Cash reports",
+        "icon": "/img/inner-banners/ticket/ticket-ico-12.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/TicketingManager"
+  },
+  {
+    "slug": "smsmanager",
+    "key": "SMSManager",
+    "category": "more",
+    "title": "SMS",
+    "accent": "Manager",
+    "modulesHeading": "Accountant Gold Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Contacts mgmt",
+        "icon": "/img/inner-banners/sms/sms-ico-1.jpg"
+      },
+      {
+        "label": "Bulk SMS",
+        "icon": "/img/inner-banners/sms/sms-ico-2.jpg"
+      },
+      {
+        "label": "Urdu / English SMS",
+        "icon": "/img/inner-banners/sms/sms-ico-3.jpg"
+      },
+      {
+        "label": "Campaigns SMS",
+        "icon": "/img/inner-banners/sms/sms-ico-4.jpg"
+      },
+      {
+        "label": "Integ with GSM mobiles",
+        "icon": "/img/inner-banners/sms/sms-ico-5.jpg"
+      },
+      {
+        "label": "Integ with 3G Devices",
+        "icon": "/img/inner-banners/sms/sms-ico-6.jpg"
+      },
+      {
+        "label": "Api's attachments",
+        "icon": "/img/inner-banners/sms/sms-ico-7.jpg"
+      },
+      {
+        "label": "Analysis reports",
+        "icon": "/img/inner-banners/sms/sms-ico-8.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [
+      "United Mobile DIK",
+      "Spicy Bites 2",
+      "United Mobile"
+    ],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/SMSManager"
+  },
+  {
+    "slug": "tailor-manager",
+    "key": "TailorManager",
+    "category": "more",
+    "title": "Tailor",
+    "accent": "Manager",
+    "modulesHeading": "Tailor Manager Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Tailors Management",
+        "icon": "/img/inner-banners/tailor/tailor-ico-3.jpg"
+      },
+      {
+        "label": "Tailors Assignment",
+        "icon": "/img/inner-banners/tailor/tailor-ico-5.jpg"
+      },
+      {
+        "label": "Tailors Payment",
+        "icon": "/img/inner-banners/tailor/tailor-ico-6.jpg"
+      },
+      {
+        "label": "Tailor Suite Receipts",
+        "icon": "/img/inner-banners/tailor/tailor-ico-7.jpg"
+      },
+      {
+        "label": "Suite Measurement",
+        "icon": "/img/inner-banners/tailor/tailor-ico-1.jpg"
+      },
+      {
+        "label": "Packages Management",
+        "icon": "/img/inner-banners/tailor/tailor-ico-2.jpg"
+      },
+      {
+        "label": "Customer Orders",
+        "icon": "/img/inner-banners/tailor/tailor-ico-4.jpg"
+      },
+      {
+        "label": "Analysis Reports",
+        "icon": "/img/inner-banners/tailor/tailor-ico-10.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/TailorManager"
+  },
+  {
+    "slug": "carriage-manager",
+    "key": "CarriageManager",
+    "category": "more",
+    "title": "Carriage",
+    "accent": "Manager",
+    "modulesHeading": "Carriage Manager Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Products Mgmt",
+        "icon": "/img/inner-banners/carriage/carriage-ico-1.jpg"
+      },
+      {
+        "label": "Stations Mgmt",
+        "icon": "/img/inner-banners/carriage/carriage-ico-2.jpg"
+      },
+      {
+        "label": "Depot Activity",
+        "icon": "/img/inner-banners/carriage/carriage-ico-3.jpg"
+      },
+      {
+        "label": "Carriage Invoice",
+        "icon": "/img/inner-banners/carriage/carriage-ico-4.jpg"
+      },
+      {
+        "label": "Carriage bill making",
+        "icon": "/img/inner-banners/carriage/carriage-ico-5.jpg"
+      },
+      {
+        "label": "Shortage Invoices",
+        "icon": "/img/inner-banners/carriage/carriage-ico-6.jpg"
+      },
+      {
+        "label": "Clam Invoices",
+        "icon": "/img/inner-banners/carriage/carriage-ico-7.jpg"
+      },
+      {
+        "label": "Vehicles Payment",
+        "icon": "/img/inner-banners/carriage/carriage-ico-8.jpg"
+      },
+      {
+        "label": "Absent Vehicles",
+        "icon": "/img/inner-banners/carriage/carriage-ico-9.jpg"
+      },
+      {
+        "label": "Vehicle Income",
+        "icon": "/img/inner-banners/carriage/carriage-ico-10.jpg"
+      },
+      {
+        "label": "Rate Revisions",
+        "icon": "/img/inner-banners/carriage/carriage-ico-11.jpg"
+      },
+      {
+        "label": "Contractors Vehicle Mgmt",
+        "icon": "/img/inner-banners/carriage/carriage-ico-12.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/carriage/carriage-ico-13.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/carriage/carriage-ico-15.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/carriage/carriage-ico-16.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/carriage/carriage-ico-17.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/CarriageManager"
+  },
+  {
+    "slug": "edu-quill",
+    "key": "EduQuill",
+    "category": "more",
+    "title": "School Management Software",
+    "accent": "",
+    "modulesHeading": "School Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Academic Secessions",
+        "icon": "/img/inner-banners/quill/quill-ico-1.jpg"
+      },
+      {
+        "label": "Academic Programs",
+        "icon": "/img/inner-banners/quill/quill-ico-2.jpg"
+      },
+      {
+        "label": "Enquires & Follow-up",
+        "icon": "/img/inner-banners/quill/quill-ico-8.jpg"
+      },
+      {
+        "label": "Admissions",
+        "icon": "/img/inner-banners/quill/quill-ico-7.jpg"
+      },
+      {
+        "label": "Fee management",
+        "icon": "/img/inner-banners/quill/quill-ico-3.jpg"
+      },
+      {
+        "label": "Fee Refund",
+        "icon": "/img/inner-banners/quill/quill-ico-14.jpg"
+      },
+      {
+        "label": "Fine management",
+        "icon": "/img/inner-banners/quill/quill-ico-4.jpg"
+      },
+      {
+        "label": "Concision management",
+        "icon": "/img/inner-banners/quill/quill-ico-5.jpg"
+      },
+      {
+        "label": "Other Dues management",
+        "icon": "/img/inner-banners/quill/quill-ico-6.jpg"
+      },
+      {
+        "label": "Students Portfolios",
+        "icon": "/img/inner-banners/quill/quill-ico-9.jpg"
+      },
+      {
+        "label": "Students Placements",
+        "icon": "/img/inner-banners/quill/quill-ico-10.jpg"
+      },
+      {
+        "label": "Events Collection",
+        "icon": "/img/inner-banners/quill/quill-ico-11.jpg"
+      },
+      {
+        "label": "School Leaving",
+        "icon": "/img/inner-banners/quill/quill-ico-12.jpg"
+      },
+      {
+        "label": "Inventory",
+        "icon": "/img/inner-banners/quill/quill-ico-16.jpg"
+      },
+      {
+        "label": "Time & Attendance",
+        "icon": "/img/inner-banners/quill/quill-ico-19.jpg"
+      },
+      {
+        "label": "Payroll",
+        "icon": "/img/inner-banners/quill/quill-ico-17.jpg"
+      },
+      {
+        "label": "Banks",
+        "icon": "/img/inner-banners/quill/quill-ico-15.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/quill/quill-ico-18.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/EduQuill"
+  },
+  {
+    "slug": "scale-operator",
+    "key": "ScaleOperator",
+    "category": "more",
+    "title": "Scale",
+    "accent": "Operator",
+    "modulesHeading": "Scale Operator Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Product",
+        "icon": "/img/inner-banners/scale/scale-ico-1.jpg"
+      },
+      {
+        "label": "Vehicle",
+        "icon": "/img/inner-banners/scale/scale-ico-2.jpg"
+      },
+      {
+        "label": "Weighing Tariffs",
+        "icon": "/img/inner-banners/scale/scale-ico-3.jpg"
+      },
+      {
+        "label": "Weighing Process",
+        "icon": "/img/inner-banners/scale/scale-ico-7.jpg"
+      },
+      {
+        "label": "Machine Integrated",
+        "icon": "/img/inner-banners/scale/scale-ico-4.jpg"
+      },
+      {
+        "label": "Parties Receipts",
+        "icon": "/img/inner-banners/scale/scale-ico-6.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/ScaleOperator"
+  },
+  {
+    "slug": "finance-manager",
+    "key": "FinanceManager",
+    "category": "more",
+    "title": "Finance",
+    "accent": "Manager",
+    "modulesHeading": "Finance Manager Operational Modules:",
+    "description": [],
+    "modules": [
+      {
+        "label": "Products",
+        "icon": "/img/inner-banners/finance/finance-ico-3.jpg"
+      },
+      {
+        "label": "Parties",
+        "icon": "/img/inner-banners/finance/finance-ico-5.jpg"
+      },
+      {
+        "label": "Purchase",
+        "icon": "/img/inner-banners/finance/finance-ico-2.jpg"
+      },
+      {
+        "label": "Sale",
+        "icon": "/img/inner-banners/finance/finance-ico-1.jpg"
+      },
+      {
+        "label": "Bank",
+        "icon": "/img/inner-banners/finance/finance-ico-4.jpg"
+      },
+      {
+        "label": "Accounts",
+        "icon": "/img/inner-banners/finance/finance-ico-6.jpg"
+      }
+    ],
+    "accordion": [],
+    "clients": [],
+    "brochure": null,
+    "sourceUrl": "https://edusoftsolutions.com/MoreSolutions/FinanceManager"
+  }
+]

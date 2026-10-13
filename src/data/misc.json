@@ -1,0 +1,509 @@
+{
+  "portfolio": [
+    {
+      "title": "Logo Design",
+      "src": "/portfolio/logo.jpg"
+    },
+    {
+      "title": "Website Design & Development",
+      "src": "/portfolio/web.jpg"
+    },
+    {
+      "title": "Pdf Designs",
+      "src": "/portfolio/pdf.jpg"
+    }
+  ],
+  "privacy": [
+    {
+      "tag": "li",
+      "text": "Home"
+    },
+    {
+      "tag": "li",
+      "text": "About Vision & Mission CEO Message Management Team"
+    },
+    {
+      "tag": "li",
+      "text": "Vision & Mission"
+    },
+    {
+      "tag": "li",
+      "text": "CEO Message"
+    },
+    {
+      "tag": "li",
+      "text": "Management Team"
+    },
+    {
+      "tag": "li",
+      "text": "Retail Solutions Restaurant Manager Store Manager Business Solution Retail Fuel Station Manager Book Shop Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Restaurant Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Store Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Business Solution Retail"
+    },
+    {
+      "tag": "li",
+      "text": "Fuel Station Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Book Shop Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Healthcare Solutions Pharma Manager Labiz Hospital Information Management System"
+    },
+    {
+      "tag": "li",
+      "text": "Pharma Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Labiz"
+    },
+    {
+      "tag": "li",
+      "text": "Hospital Information Management System"
+    },
+    {
+      "tag": "li",
+      "text": "Enterprise Solutions Business Solutions Enterprise Business solution Standard Auto Dealer Solutions Property Manager Ginning Manager Agri Manager Studio Manager Business Solutions Accounts & inventory"
+    },
+    {
+      "tag": "li",
+      "text": "Business Solutions Enterprise"
+    },
+    {
+      "tag": "li",
+      "text": "Business solution Standard"
+    },
+    {
+      "tag": "li",
+      "text": "Auto Dealer Solutions"
+    },
+    {
+      "tag": "li",
+      "text": "Property Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Ginning Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Agri Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Studio Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Business Solutions Accounts & inventory"
+    },
+    {
+      "tag": "li",
+      "text": "More Solutions Accountant Gold Hotel Manager Transport manager Ticketing Manager SMS Manager Tailor Manager Carriage Manager School Management Software Scale Operator Finance Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Accountant Gold"
+    },
+    {
+      "tag": "li",
+      "text": "Hotel Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Transport manager"
+    },
+    {
+      "tag": "li",
+      "text": "Ticketing Manager"
+    },
+    {
+      "tag": "li",
+      "text": "SMS Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Tailor Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Carriage Manager"
+    },
+    {
+      "tag": "li",
+      "text": "School Management Software"
+    },
+    {
+      "tag": "li",
+      "text": "Scale Operator"
+    },
+    {
+      "tag": "li",
+      "text": "Finance Manager"
+    },
+    {
+      "tag": "li",
+      "text": "OurServices Business Consultancy Web Design & Development Mobile App Development E-Commerce Solutions Product Maintenance"
+    },
+    {
+      "tag": "li",
+      "text": "Business Consultancy"
+    },
+    {
+      "tag": "li",
+      "text": "Web Design & Development"
+    },
+    {
+      "tag": "li",
+      "text": "Mobile App Development"
+    },
+    {
+      "tag": "li",
+      "text": "E-Commerce Solutions"
+    },
+    {
+      "tag": "li",
+      "text": "Product Maintenance"
+    },
+    {
+      "tag": "li",
+      "text": "Design Portfolio"
+    },
+    {
+      "tag": "li",
+      "text": "Contact Us Free Offer Contact Us Feed Backs and Complaints EduSoft Login"
+    },
+    {
+      "tag": "li",
+      "text": "Free Offer"
+    },
+    {
+      "tag": "li",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "li",
+      "text": "Feed Backs and Complaints"
+    },
+    {
+      "tag": "li",
+      "text": "EduSoft Login"
+    },
+    {
+      "tag": "li",
+      "text": "Home"
+    },
+    {
+      "tag": "li",
+      "text": "About Vision & Mission CEO Message Management Team"
+    },
+    {
+      "tag": "li",
+      "text": "Vision & Mission"
+    },
+    {
+      "tag": "li",
+      "text": "CEO Message"
+    },
+    {
+      "tag": "li",
+      "text": "Management Team"
+    },
+    {
+      "tag": "li",
+      "text": "Retail Solutions Restaurant Manager Store Manager Business Solution-R.T"
+    },
+    {
+      "tag": "li",
+      "text": "Restaurant Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Store Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Business Solution-R.T"
+    },
+    {
+      "tag": "li",
+      "text": "Healthcare Solutions Pharma Manager Labiz HospitalInformation Management System"
+    },
+    {
+      "tag": "li",
+      "text": "Pharma Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Labiz"
+    },
+    {
+      "tag": "li",
+      "text": "HospitalInformation Management System"
+    },
+    {
+      "tag": "li",
+      "text": "Enterprise Solutions Business Solutions Auto Dealer Solutions Property Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Business Solutions"
+    },
+    {
+      "tag": "li",
+      "text": "Auto Dealer Solutions"
+    },
+    {
+      "tag": "li",
+      "text": "Property Manager"
+    },
+    {
+      "tag": "li",
+      "text": "More Solutions Accountant Gold Hotel Manager Transport manager Ticketing Manager SMS Manager Tailor Manager Carriage Manager Edu Quill Scale Operator Finance Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Accountant Gold"
+    },
+    {
+      "tag": "li",
+      "text": "Hotel Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Transport manager"
+    },
+    {
+      "tag": "li",
+      "text": "Ticketing Manager"
+    },
+    {
+      "tag": "li",
+      "text": "SMS Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Tailor Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Carriage Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Edu Quill"
+    },
+    {
+      "tag": "li",
+      "text": "Scale Operator"
+    },
+    {
+      "tag": "li",
+      "text": "Finance Manager"
+    },
+    {
+      "tag": "li",
+      "text": "Our Services Business Consultancy Web Design & Development Mobile App Development E-Commerce Solutions Product Maintenance"
+    },
+    {
+      "tag": "li",
+      "text": "Business Consultancy"
+    },
+    {
+      "tag": "li",
+      "text": "Web Design & Development"
+    },
+    {
+      "tag": "li",
+      "text": "Mobile App Development"
+    },
+    {
+      "tag": "li",
+      "text": "E-Commerce Solutions"
+    },
+    {
+      "tag": "li",
+      "text": "Product Maintenance"
+    },
+    {
+      "tag": "li",
+      "text": "Design Portfolio"
+    },
+    {
+      "tag": "li",
+      "text": "Contact"
+    },
+    {
+      "tag": "h2",
+      "text": "Privacy Policy"
+    },
+    {
+      "tag": "p",
+      "text": "Home"
+    },
+    {
+      "tag": "p",
+      "text": "About"
+    },
+    {
+      "tag": "p",
+      "text": "Privacy Policy"
+    },
+    {
+      "tag": "p",
+      "text": "This privacy policy covers Edusoft System Solutions handling of information, data and any assets collected by Edusoft System Solutionsor provided to Edusoft System Solutions on sole discretion of its clients."
+    },
+    {
+      "tag": "p",
+      "text": "“Information” where used means any information voluntarily provided by our clients through any means for carrying out the work as per business contract. Edusoft System Solutions may at any time, without prior notice and in its sole discretion, amend this policy. Please keep the latest version of this policy for your reference at all times. This privacy policy aims to comply with the privacy laws applicable to the personal data we collect and use as part of engagements with our customer and clients. Edusoft System Solutions values the privacy of its customers and clients."
+    },
+    {
+      "tag": "h2",
+      "text": "Information Collection"
+    },
+    {
+      "tag": "p",
+      "text": "All customer/client information collected shall be used for the purpose it was meant to serve as per agreement."
+    },
+    {
+      "tag": "p",
+      "text": "Edusoft System Solutions collects information such as name, contact no, email, address and business information such as business name, nature and designation etc. over the web using “Contact Us & Free Offer form” for the purpose of providing services to the client."
+    },
+    {
+      "tag": "h2",
+      "text": "Information Use"
+    },
+    {
+      "tag": "p",
+      "text": "Edusoft System Solutions shall use information collected as part of engagement;"
+    },
+    {
+      "tag": "p",
+      "text": "• To provide clients/customers with information about product upgrades, new products, services, newsletters, informative emails, marketing activities and research on future product ideas or improvements;"
+    },
+    {
+      "tag": "p",
+      "text": "• To assist Edusoft System Solutions in creating content that is relevant to clients/customers;"
+    },
+    {
+      "tag": "p",
+      "text": "• To assist Edusoft System Solutions in creating better products and services to meet clients/customer’s needs"
+    },
+    {
+      "tag": "p",
+      "text": "• To help Edusoft System Solutions share software, services or product information important for its clients/customers"
+    },
+    {
+      "tag": "p",
+      "text": "• To help our potential clients to view our existing client (w.r.t. business name & address) list in their segments, using our product and services to evaluate credibility and worth of Edusoft System Solutions."
+    },
+    {
+      "tag": "h2",
+      "text": "Communications of Information"
+    },
+    {
+      "tag": "p",
+      "text": "Edusoft System Solutions shall use information collected as part of engagement;"
+    },
+    {
+      "tag": "p",
+      "text": "We at Edusoft System Solutions shall ensure to preserve user privacy, however there are certain circumstances where Edusoft System Solutions may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our products, services or website."
+    },
+    {
+      "tag": "p",
+      "text": "Edusoft System Solutions uses links to other sites in its websites offered as part of services to different clients. Please be aware that Edusoft System Solutions shall not be responsible for the privacy practices of such other sites. We encourage clients/customers to be aware once redirected to external sites either voluntarily or involuntarily, read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Edusoft System Solutionsas part of its engagement of product or service or website with its customers and clients."
+    },
+    {
+      "tag": "p",
+      "text": "Edusoft System Solutions keeping in view the privacy of personal information received from minors/children (individuals under the age of 18), shall not knowingly receive/collect personal information at company website& Socials (Facebook, Instagram, Twitter etc.). If Edusoft System Solutions comes to know that there is personal information received from a minor is available at company portals and websites, it shall be deleted."
+    },
+    {
+      "tag": "p",
+      "text": "In-case a customer or clients personally identifiable information changes (such as zip code, phone, email or postal address), or if a client no longer continues to use service, Edusoft System Solutions shall correct, update or delete users’ personally identifiable information."
+    },
+    {
+      "tag": "p",
+      "text": "Edusoft System Solutions ensures to notify changes to its clients in its privacy policy, all such changes are posted as part of this privacy statement, on our website and other places we deem appropriate so our users, customers and clients are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it."
+    },
+    {
+      "tag": "p",
+      "text": "In the event any of the provisions of this privacy policy are held to be unenforceable, the remaining provisions will be unimpaired and the unenforceable provision(s) will be replaced by such enforceable provision(s) as comes closest to the intention underlying the unenforceable provision(s)."
+    },
+    {
+      "tag": "h2",
+      "text": "We would love to Get in Touch. Contact Us"
+    },
+    {
+      "tag": "p",
+      "text": "Copyright © 2026 Edusoft System Solutions"
+    },
+    {
+      "tag": "li",
+      "text": "Sitemap"
+    },
+    {
+      "tag": "li",
+      "text": "Career"
+    },
+    {
+      "tag": "li",
+      "text": "Media & News"
+    },
+    {
+      "tag": "li",
+      "text": "Privacy Policy"
+    }
+  ],
+  "sponsors": [
+    "/img/sponsor/01.png",
+    "/img/sponsor/02.png",
+    "/img/sponsor/03.png",
+    "/img/sponsor/04.png",
+    "/img/sponsor/05.png",
+    "/img/sponsor/06.png",
+    "/img/sponsor/07.png",
+    "/img/sponsor/08.png",
+    "/img/sponsor/09.png",
+    "/img/sponsor/10.png",
+    "/img/sponsor/11.png",
+    "/img/sponsor/12.png",
+    "/img/sponsor/13.png",
+    "/img/sponsor/14.png",
+    "/img/sponsor/15.png",
+    "/img/sponsor/16.png",
+    "/img/sponsor/17.png",
+    "/img/sponsor/18.png",
+    "/img/sponsor/19.png",
+    "/img/sponsor/20.png",
+    "/img/sponsor/21.png",
+    "/img/sponsor/22.png",
+    "/img/sponsor/23.png",
+    "/img/sponsor/24.png",
+    "/img/sponsor/25.png",
+    "/img/sponsor/26.png",
+    "/img/sponsor/27.png",
+    "/img/sponsor/28.png",
+    "/img/sponsor/29.png",
+    "/img/sponsor/30.png",
+    "/img/sponsor/31.png",
+    "/img/sponsor/32.png",
+    "/img/sponsor/33.png",
+    "/img/sponsor/34.png",
+    "/img/sponsor/35.png",
+    "/img/sponsor/36.png",
+    "/img/sponsor/37.png"
+  ]
+}
