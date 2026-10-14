@@ -14,6 +14,9 @@ const group = (dir: string, cat: string, hub: string, map: Record<string, string
 ];
 
 const nextConfig: NextConfig = {
+  // Dev only: lets Chrome open the site via 127.0.0.1 or the "Network" address (phone / other PC on the same Wi-Fi).
+  // Without this, Next blocks its own dev scripts (403) on those hosts and the page stays blank. No effect in production.
+  allowedDevOrigins: ["127.0.0.1", "192.168.*.*", "10.*.*.*", "172.*.*.*"],
   images: { qualities: [75, 95] },
   env: { NEXT_PUBLIC_YEAR: String(new Date().getFullYear()) },
   turbopack: {
